@@ -1,0 +1,162 @@
+id: 3
+label: Full sample
+coefficients:
+ - id: treatment
+   estimate: .0205733
+   standard_error: .0221772
+   t_statistic: .9276785
+   p_value: .353645
+ - id: Gtreatment
+   estimate: .00664
+   standard_error: .013719
+   t_statistic: .4840017
+   p_value: .6284181
+ - id: o._Itreatment_1
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: mean_treatment_N
+   estimate: .0561597
+   standard_error: .0642539
+   t_statistic: .8740282
+   p_value: .3821691
+ - id: _ItreXmean__1
+   estimate: .0627573
+   standard_error: .0468943
+   t_statistic: 1.338271
+   p_value: .1809042
+ - id: _Irange_1
+   estimate: -.06185
+   standard_error: .018804
+   t_statistic: -3.289185
+   p_value: .0010158
+ - id: _IranXmean__1
+   estimate: .0894595
+   standard_error: .0430787
+   t_statistic: 2.07665
+   p_value: .0379142
+ - id: gender
+   estimate: .1989153
+   standard_error: .0106984
+   t_statistic: 18.59295
+   p_value: 2.54e-73
+ - id: skilled
+   estimate: .1102033
+   standard_error: .0102928
+   t_statistic: 10.70686
+   p_value: 2.65e-26
+ - id: age
+   estimate: .025371
+   standard_error: .0022674
+   t_statistic: 11.18945
+   p_value: 1.56e-28
+ - id: age2
+   estimate: -.0266041
+   standard_error: .0029832
+   t_statistic: -8.918087
+   p_value: 7.85e-19
+ - id: lnK
+   estimate: .0861922
+   standard_error: .0052895
+   t_statistic: 16.29507
+   p_value: 2.16e-57
+ - id: lnL
+   estimate: .0172996
+   standard_error: .0501569
+   t_statistic: .3449101
+   p_value: .7301849
+ - id: lnL2
+   estimate: -.005145
+   standard_error: .0045195
+   t_statistic: -1.138391
+   p_value: .2550434
+ - id: foreign
+   estimate: .1461562
+   standard_error: .014625
+   t_statistic: 9.993568
+   p_value: 3.57e-23
+ - id: firm_age
+   estimate: .0194786
+   standard_error: .0043842
+   t_statistic: 4.44294
+   p_value: 9.18e-06
+ - id: firm_age2
+   estimate: -.0006538
+   standard_error: .0004597
+   t_statistic: -1.422218
+   p_value: .1550613
+ - id: _Iyear_1993
+   estimate: -.0800142
+   standard_error: .0131142
+   t_statistic: -6.101333
+   p_value: 1.18e-09
+ - id: _Iyear_1994
+   estimate: -.0584932
+   standard_error: .0158483
+   t_statistic: -3.690827
+   p_value: .0002273
+ - id: _Iyear_1995
+   estimate: -.1786753
+   standard_error: .0174517
+   t_statistic: -10.23826
+   p_value: 3.17e-24
+ - id: _Iyear_1996
+   estimate: -.2349844
+   standard_error: .0204339
+   t_statistic: -11.49971
+   p_value: 5.17e-30
+ - id: _Iyear_1997
+   estimate: -.3341194
+   standard_error: .0228269
+   t_statistic: -14.63712
+   p_value: 5.38e-47
+ - id: _Iyear_1998
+   estimate: -.3486176
+   standard_error: .0249054
+   t_statistic: -13.99766
+   p_value: 3.04e-43
+ - id: _Iyear_1999
+   estimate: -.3371351
+   standard_error: .0270665
+   t_statistic: -12.45579
+   p_value: 8.37e-35
+ - id: _Iyear_2000
+   estimate: -.3275636
+   standard_error: .0283356
+   t_statistic: -11.56016
+   p_value: 2.63e-30
+ - id: _Iyear_2001
+   estimate: -.2831013
+   standard_error: .0303138
+   t_statistic: -9.339025
+   p_value: 1.78e-20
+ - id: _Iyear_2002
+   estimate: -.2433774
+   standard_error: .031387
+   t_statistic: -7.754081
+   p_value: 1.19e-14
+ - id: _Iyear_2003
+   estimate: -.2265925
+   standard_error: .0333594
+   t_statistic: -6.79247
+   p_value: 1.31e-11
+ - id: o._Iyear_2004
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _cons
+   estimate: 8.140356
+   standard_error: .1369253
+   t_statistic: 59.45108
+   p_value: 0
+extra_rows:
+ - id: R2
+   value: .4388280181718237
+ - id: observations
+   value: 61173
+ - id: worker_control
+   value: Baseline
+ - id: firm_control
+   value: Baseline

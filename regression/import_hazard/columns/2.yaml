@@ -1,0 +1,111 @@
+id: 2
+label: Controlling\\for vintage
+coefficients:
+ - id: aggr_vintage_25
+   estimate: .2892009
+   standard_error: .0930184
+   t_statistic: 3.109071
+   p_value: .0018768
+ - id: aggr_vintage_6m
+   estimate: .4948852
+   standard_error: .2565158
+   t_statistic: 1.929258
+   p_value: .0536989
+ - id: lnK
+   estimate: .2470281
+   standard_error: .0283683
+   t_statistic: 8.707897
+   p_value: 3.10e-18
+ - id: lnL
+   estimate: .0069718
+   standard_error: .1926143
+   t_statistic: .0361954
+   p_value: .9711265
+ - id: lnL2
+   estimate: .0197444
+   standard_error: .0190997
+   t_statistic: 1.033753
+   p_value: .3012516
+ - id: foreign
+   estimate: 1.050711
+   standard_error: .0839327
+   t_statistic: 12.51849
+   p_value: 5.91e-36
+ - id: firm_age
+   estimate: -.827848
+   standard_error: .0543706
+   t_statistic: -15.22602
+   p_value: 2.38e-52
+ - id: firm_age2
+   estimate: .0769995
+   standard_error: .0075528
+   t_statistic: 10.19481
+   p_value: 2.09e-24
+ - id: 1992b.year
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: 1993.year
+   estimate: -.2516367
+   standard_error: .1008622
+   t_statistic: -2.494856
+   p_value: .0126008
+ - id: 1994.year
+   estimate: -.3430444
+   standard_error: .092707
+   t_statistic: -3.700308
+   p_value: .0002153
+ - id: 1995.year
+   estimate: -.2601461
+   standard_error: .1168628
+   t_statistic: -2.226082
+   p_value: .0260087
+ - id: 1996.year
+   estimate: -.0614325
+   standard_error: .1174951
+   t_statistic: -.5228521
+   p_value: .6010772
+ - id: 1997.year
+   estimate: -.071457
+   standard_error: .1251155
+   t_statistic: -.571128
+   p_value: .5679129
+ - id: 1998.year
+   estimate: -.0858145
+   standard_error: .1191463
+   t_statistic: -.7202446
+   p_value: .4713744
+ - id: 1999.year
+   estimate: .0645846
+   standard_error: .1241497
+   t_statistic: .5202155
+   p_value: .6029134
+ - id: 2000.year
+   estimate: -.119504
+   standard_error: .1224491
+   t_statistic: -.9759483
+   p_value: .3290901
+ - id: 2001.year
+   estimate: -.1921002
+   standard_error: .1246182
+   t_statistic: -1.541511
+   p_value: .1231926
+ - id: 2002.year
+   estimate: -.093652
+   standard_error: .1344919
+   t_statistic: -.6963396
+   p_value: .4862162
+ - id: 2003.year
+   estimate: -.1512039
+   standard_error: .1562163
+   t_statistic: -.9679138
+   p_value: .3330874
+ - id: _cons
+   estimate: -3.053203
+   standard_error: .5062347
+   t_statistic: -6.031201
+   p_value: 1.63e-09
+extra_rows:
+ - id: observations
+   value: 4593

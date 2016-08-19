@@ -1,0 +1,8 @@
+--- > 
+ The dependent variable is an indicator for importer status.
+ All regressions estimated by ordinary least squares and control for occupation-year fixed effects.
+ Worker controls include indicators for gender and schooling and a quadratic function of worker age.
+ Firm controls include quadratic functions of log employment and firm age.
+ Observations are weighted by $1/n_{fot}$, the inverse of the number of workers in a firm-occupation-year cell.
+ Standard errors, clustered by firm, are reported in parantheses.
+ Coefficients significantly different from zero at 1, 5 and 10 percent are marked by ***, ** and *, respectively.

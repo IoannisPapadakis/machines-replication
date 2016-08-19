@@ -1,0 +1,21 @@
+-   id: lnK
+    label: Book value of machinery\\{}\hspace*{1em}(log)
+    type: coefficient
+-   id: foreign
+    label: Firm is foreign owned\\{}\hspace*{1em}(dummy)
+    type: coefficient
+-   id: aggr_vintage_25
+    label: Equipment bought 2--5\\{}\hspace*{1em}years ago (share)
+    type: coefficient
+-   id: aggr_vintage_6m
+    label: Equipment bought 6 or\\{}\hspace*{1em}more years ago (share)
+    type: coefficient
+-   id: tariffeu_X_lnL
+    label: EU tariff\\{}\hspace*{1em}$\times$ employment (log)
+    type: coefficient
+-   id: tariffeu_X_lnL2
+    label: EU tariff\\{}\hspace*{1em}$\times$ employment (log, squared)
+    type: coefficient
+-   id: observations
+    type: extra_row
+    label: Number of observations

@@ -1,0 +1,374 @@
+feor,occupation_description,hs6,machine_description
+8111,Food products machine operators,841720,"Bakery ovens, etc non-electric"
+8111,Food products machine operators,841931,Dryers for agricultural products
+8111,Food products machine operators,842111,Cream separators
+8111,Food products machine operators,843710,"Machines to clean, sort, grade seed,grain, dry legumes"
+8111,Food products machine operators,843780,Machines to mill or work cereals or dried legumes nes
+8111,Food products machine operators,843810,Bakery and pasta making machinery
+8111,Food products machine operators,843820,"Machines, confectionery, cocoa, chocolate manufacture"
+8111,Food products machine operators,843830,Machinery for sugar refining and manufacture
+8111,Food products machine operators,843850,Machinery for the preparation of meat and poultry
+8111,Food products machine operators,843860,"Machinery for preparation of fruits, nuts, vegetables"
+8111,Food products machine operators,843880,"Industrial machinery nes for food, drink preparation"
+8111,Food products machine operators,847920,Machines to process animal or fixed veg fats or oils
+8111,Food products machine operators,903210,Thermostats
+8112,Beverage products machine operators,842122,Filtering/purifying machinery/apparatus for beverages
+8112,Beverage products machine operators,842220,Machinery for cleaning/drying bottles/containers nes
+8112,Beverage products machine operators,843510,"Presses, crushers etc for wine, fruit juice, beverages"
+8112,Beverage products machine operators,843840,Brewery machinery
+8112,Beverage products machine operators,843880,"Industrial machinery nes for food, drink preparation"
+8113,Tobacco products machine operators,847810,Machinery for preparing or making up tobacco
+8121,Textile industry machine operators and production line workers,842010,"Calendering or rolling machines, not. for metals/glass"
+8121,Textile industry machine operators and production line workers,844400,"Machines to extrude, draw, cut manmade textile fibres"
+8121,Textile industry machine operators and production line workers,844511,Textile fibre carding machines
+8121,Textile industry machine operators and production line workers,844512,Textile fibre combing machines
+8121,Textile industry machine operators and production line workers,844513,Textile fibre drawing or roving machines
+8121,Textile industry machine operators and production line workers,844519,Textile fibre preparing machines nes
+8121,Textile industry machine operators and production line workers,844520,Textile yarn spinning machines
+8121,Textile industry machine operators and production line workers,844530,Textile yarn doubling or twisting machines
+8121,Textile industry machine operators and production line workers,844540,Textile yarn winding or reeling machines
+8121,Textile industry machine operators and production line workers,844590,Machinery for producing or preparing textile yarn nes
+8121,Textile industry machine operators and production line workers,844610,"Machines for weaving fabric, width < 30 cm"
+8121,Textile industry machine operators and production line workers,844621,Shuttle type power loom for weaving fabric >30cm wide
+8121,Textile industry machine operators and production line workers,844629,Shuttle type looms nes for weaving fabric >30cm wide
+8121,Textile industry machine operators and production line workers,844630,Shuttle-less looms for weaving fabric >30cm wide
+8121,Textile industry machine operators and production line workers,844720,"Flat knitting machines, stitch-bonding machines"
+8121,Textile industry machine operators and production line workers,844900,"Machinery for making felt, nonwovens, including hats"
+8121,Textile industry machine operators and production line workers,845140,"Washing, bleaching or dyeing machines (non-domestic)"
+8121,Textile industry machine operators and production line workers,845150,"Machinery to reel, fold, cut, pink, etc textile fabric"
+8122,Dressmaking machine operators and production line workers,844400,"Machines to extrude, draw, cut manmade textile fibres"
+8122,Dressmaking machine operators and production line workers,845150,"Machinery to reel, fold, cut, pink, etc textile fabric"
+8122,Dressmaking machine operators and production line workers,845221,"Automatic sewing machines, other than book-sewing nes"
+8122,Dressmaking machine operators and production line workers,845229,"Sewing machines, other than book-sewing machines, nes"
+8123,Leather tanning and processing machine operators and production line workers,845310,"Machinery to prepare, tan, work hides, skins, leather"
+8123,Leather tanning and processing machine operators and production line workers,845380,"Machinery for leather, skin goods making except sewing"
+8124,Shoemaking machine operators and production line workers,845320,Machinery for making or repairing footwear
+8125,Wood processing machine operators and production line workers,841932,"Dryers for wood, paper pulp, paper or paperboard"
+8125,Wood processing machine operators and production line workers,846510,Multi-purpose machines for wood etc work
+8125,Wood processing machine operators and production line workers,846591,"Sawing machines for working wood, cork, etc"
+8125,Wood processing machine operators and production line workers,846592,"Planing and milling machines for wood, cork, etc"
+8125,Wood processing machine operators and production line workers,846593,"Grinding, sanding, polishing machines for wood, et c"
+8125,Wood processing machine operators and production line workers,846594,"Bending or assembling machines for wood, etc"
+8125,Wood processing machine operators and production line workers,846595,"Drilling or morticing machines for wood, etc"
+8125,Wood processing machine operators and production line workers,846596,"Splitting, slicing or paring machines for wood, etc"
+8125,Wood processing machine operators and production line workers,846599,"Machine tools for wood, cork or hard plastic, etc nes"
+8125,Wood processing machine operators and production line workers,846781,Chain saws
+8125,Wood processing machine operators and production line workers,847930,"Presses for particle, fibre board, etc manufacture"
+8126,Paper and pulp industry machine operators,841932,"Dryers for wood, paper pulp, paper or paperboard"
+8126,Paper and pulp industry machine operators,843910,Machinery for pulping fibrous cellulosic material
+8126,Paper and pulp industry machine operators,843920,Machinery for making paper or paperboard
+8126,Paper and pulp industry machine operators,843930,Machinery for finishing paper or paperboard
+8126,Paper and pulp industry machine operators,844110,"Cutting machines for paper pulp, paper or paperboard"
+8126,Paper and pulp industry machine operators,844120,"Machines for making paper/board bags, sacks, envelopes"
+8126,Paper and pulp industry machine operators,844130,"Machines making paper/board boxes etc, except moulded"
+8126,Paper and pulp industry machine operators,844140,"Machines for moulding articles in pulp, paper, board"
+8126,Paper and pulp industry machine operators,844180,"Machinery for making up pulp, paper, paperboard nes"
+8127,Printing machine operators,844210,Photo-typesetting and composing machines
+8127,Printing machine operators,844220,Typesetting equipment other than photo
+8127,Printing machine operators,844230,Machinery/equipment for print preparation nes
+8127,Printing machine operators,844311,Reel fed offset printing machinery
+8127,Printing machine operators,844312,"Sheet fed, office offset printers, sheet < 22x36 cm"
+8127,Printing machine operators,844319,Offset printing machinery nes
+8127,Printing machine operators,844321,Reel fed letterpress printers except flexographic
+8127,Printing machine operators,844329,Letterpress printing machinery nes except flexographic
+8127,Printing machine operators,844330,Flexographic printing machinery
+8127,Printing machine operators,844340,Gravure printing machinery
+8127,Printing machine operators,844351,Ink-jet printing machine
+8127,Printing machine operators,844359,Printing machinery nes
+8127,Printing machine operators,844360,Machines for uses ancillary to printing
+8131,Petroleum refinery and processing machine operators,841940,Distilling or rectifying plant
+8131,Petroleum refinery and processing machine operators,842123,Oil/petrol filters for internal combustion engines
+8131,Petroleum refinery and processing machine operators,850153,"AC motors, multi-phase, of an output > 75 kW"
+8132,Gas making and processing machine operators,841620,"Furnace burners for solid, gas or combination fuel"
+8132,Gas making and processing machine operators,842139,Filtering or purifying machinery for gases nes
+8132,Gas making and processing machine operators,902680,"Equipment to measure, check gas/liquid properties nes"
+8132,Gas making and processing machine operators,902710,Gas/smoke analysis apparatus
+8132,Gas making and processing machine operators,902810,Gas supply/production/calibration meters
+8133,Basic chemicals and chemical products machine operators,842119,Centrifuges nes
+8133,Basic chemicals and chemical products machine operators,842129,Filtering/purifying machinery for liquids nes
+8133,Basic chemicals and chemical products machine operators,842139,Filtering or purifying machinery for gases nes
+8133,Basic chemicals and chemical products machine operators,902610,Equipment to measure or check liquid flow or level
+8133,Basic chemicals and chemical products machine operators,902710,Gas/smoke analysis apparatus
+8133,Basic chemicals and chemical products machine operators,902780,"Equipment for physical or chemical analysis, nes"
+8134,Pharmaceutical products machine operators,841920,"Medical, surgical or laboratory sterilizers"
+8134,Pharmaceutical products machine operators,842119,Centrifuges nes
+8134,Pharmaceutical products machine operators,842330,"Constant weight scales, including hopper scales"
+8134,Pharmaceutical products machine operators,902780,"Equipment for physical or chemical analysis, nes"
+8136,Plastic processing machine operators,842010,"Calendering or rolling machines, not. for metals/glass"
+8136,Plastic processing machine operators,846599,"Machine tools for wood, cork or hard plastic, etc nes"
+8136,Plastic processing machine operators,847740,"Rubber or plastic vacuum moulders, thermoformers"
+8136,Plastic processing machine operators,847759,Rubber or plastic moulding and forming machines nes
+8136,Plastic processing machine operators,847780,"Rubber or plastic working machines, nes"
+8137,"Rubber goods manufacturers, vulcanizers",847710,Injection-moulding machines for rubber or plastic
+8137,"Rubber goods manufacturers, vulcanizers",847720,Extruders for working rubber or plastic
+8137,"Rubber goods manufacturers, vulcanizers",847730,Blow moulding machines for rubber or plastic
+8137,"Rubber goods manufacturers, vulcanizers",847740,"Rubber or plastic vacuum moulders, thermoformers"
+8137,"Rubber goods manufacturers, vulcanizers",847751,"Pneumatic tyre moulding and retreading machinery, etc"
+8137,"Rubber goods manufacturers, vulcanizers",847759,Rubber or plastic moulding and forming machines nes
+8137,"Rubber goods manufacturers, vulcanizers",847780,"Rubber or plastic working machines, nes"
+8141,Ceramic products machine operators,841780,"Industrial furnace, oven, incinerator non-electric nes"
+8141,Ceramic products machine operators,846410,"Sawing machines for stone, ceramics and glass"
+8141,Ceramic products machine operators,846420,"Grinding/polishing machines for stone, ceramics, glass"
+8141,Ceramic products machine operators,846490,"Machine tools nes for stone, ceramics and cold glass"
+8142,Fine ceramics products machine operators,841780,"Industrial furnace, oven, incinerator non-electric nes"
+8142,Fine ceramics products machine operators,846420,"Grinding/polishing machines for stone, ceramics, glass"
+8142,Fine ceramics products machine operators,846490,"Machine tools nes for stone, ceramics and cold glass"
+8143,Glass and glass products machine operators,841780,"Industrial furnace, oven, incinerator non-electric nes"
+8143,Glass and glass products machine operators,846410,"Sawing machines for stone, ceramics and glass"
+8143,Glass and glass products machine operators,846420,"Grinding/polishing machines for stone, ceramics, glass"
+8143,Glass and glass products machine operators,846490,"Machine tools nes for stone, ceramics and cold glass"
+8143,Glass and glass products machine operators,847521,Mach for manuf optical f
+8143,Glass and glass products machine operators,847529,Mach for manuf glass or
+8144,Concrete building block machine operators,841340,Concrete pumps
+8144,Concrete building block machine operators,847431,Concrete or mortar mixing machines
+8144,Concrete building block machine operators,870540,Mobile concrete mixers
+8149,Building materials industry machine operators not elsewhere classified,846420,"Grinding/polishing machines for stone, ceramics, glass"
+8191,Metallurgical machine operators,841710,Furnaces/ovens non-electric for ores/pyrites/metals
+8191,Metallurgical machine operators,845410,Converters used in metallurgy or metal foundries
+8191,Metallurgical machine operators,845420,Ingot moulds and ladles used in metallurgy/foundries
+8191,Metallurgical machine operators,845430,"Casting machines used in metallurgy, foundries"
+8191,Metallurgical machine operators,845521,"Hot, or combination hot-cold metal rolling mills"
+8191,Metallurgical machine operators,846210,"Machine tools to forge, stamp, hammer or press metals"
+8191,Metallurgical machine operators,846299,"Metal shaping presses, nes"
+8192,Metal working machine operators,845510,"Tube mills, metal rolling"
+8192,Metal working machine operators,845630,Electro-discharge process machine tools
+8192,Metal working machine operators,845691,Mach-tls f dry-etching p
+8192,Metal working machine operators,845699,Mach-tls f work mat by r
+8192,Metal working machine operators,845710,"Machining centres, for working metal"
+8192,Metal working machine operators,845720,"Unit construction machines, metal work"
+8192,Metal working machine operators,845730,Multi-station transfer machines for working metal
+8192,Metal working machine operators,845811,Horizontal numerically controlled metal work lathes
+8192,Metal working machine operators,845819,Horizontal lathes nes for metal
+8192,Metal working machine operators,845891,Lathes nes numerically controlled for removing metal
+8192,Metal working machine operators,845899,Lathes nes for removing metal
+8192,Metal working machine operators,845910,"Way-type unit head machines, metal working"
+8192,Metal working machine operators,845921,Numerically controlled metal working drill machines
+8192,Metal working machine operators,845929,"Drilling machines for metal, except num controlled"
+8192,Metal working machine operators,845931,Boring-milling machines num controlled for metal
+8192,Metal working machine operators,845939,Boring-milling machines nes for removing metal
+8192,Metal working machine operators,845940,Boring machines nes for removing metal
+8192,Metal working machine operators,845951,"Milling machines, knee-type num controlled for metal"
+8192,Metal working machine operators,845959,"Milling machines, knee-type nes for removing metal"
+8192,Metal working machine operators,845961,"Milling machines nes, num controlled for metal"
+8192,Metal working machine operators,845969,"Milling machines nes, for metal"
+8192,Metal working machine operators,845970,Threading or tapping machines nes for metal
+8192,Metal working machine operators,846011,"Num controlled surface grinders, accurate to 0.01mm"
+8192,Metal working machine operators,846019,Surface grinding machines accurate to 0.01mm nes
+8192,Metal working machine operators,846021,"Num controlled grinding machines nes, accuracy 0.01mm"
+8192,Metal working machine operators,846029,"Grinding machines nes, accurate to 0.01mm"
+8192,Metal working machine operators,846031,"Sharpening (tool, cutter grind) machines, num control"
+8192,Metal working machine operators,846039,"Sharpening (tool, cutter grind) machines nes"
+8192,Metal working machine operators,846040,Honing or lapping machines
+8192,Metal working machine operators,846090,"Machine tools for finishing metals, nes"
+8192,Metal working machine operators,846110,Metal planing machines
+8192,Metal working machine operators,846120,Metal shaping or slotting machines
+8192,Metal working machine operators,846130,Metal broaching machines
+8192,Metal working machine operators,846140,"Gear cutting, grinding and finishing machines"
+8192,Metal working machine operators,846150,Metal sawing or cutting-off machines
+8192,Metal working machine operators,846190,"Metal cuttting, shaping, filing, engrave machines, nes"
+8192,Metal working machine operators,846210,"Machine tools to forge, stamp, hammer or press metals"
+8192,Metal working machine operators,846221,"Num controlled machine tools to bend, fold, etc, metal"
+8192,Metal working machine operators,846229,"Machine tools to bend, fold, shear or press metal, nes"
+8192,Metal working machine operators,846231,Num controlled shearing (non-punching) machine tools
+8192,Metal working machine operators,846239,"Shearing (except punch-shear) machine tools, nes"
+8192,Metal working machine operators,846241,"Num controlled punch, notch, punch-shear machines"
+8192,Metal working machine operators,846291,Hydraulic presses for working metal
+8192,Metal working machine operators,846299,"Metal shaping presses, nes"
+8192,Metal working machine operators,846310,"Draw-benches for bars, tubes, profiles wire etc"
+8192,Metal working machine operators,846320,"Thread rolling machines for working metal, etc"
+8192,Metal working machine operators,846330,Machines for working metal wire
+8192,Metal working machine operators,846390,"Machine-tools (metal, carbides) not metal removal, nes"
+8192,Metal working machine operators,846711,"Tools for working in the hand, pneumatic rotary type"
+8192,Metal working machine operators,854330,"Apparatus for electro-plating, electrolysis, etc"
+8199,"Processing machine operators, production line workers not elsewhere classified",847940,Rope or cable-making machines
+8199,"Processing machine operators, production line workers not elsewhere classified",851511,Electric soldering irons and guns
+8199,"Processing machine operators, production line workers not elsewhere classified",851521,"Electric resistance welding equipment, automatic"
+8211,Solid minerals extraction machine operators,843031,"Coal or rock cutters, self-propelled"
+8211,Solid minerals extraction machine operators,843039,"Coal or rock cutters, not self-propelled"
+8211,Solid minerals extraction machine operators,846420,"Grinding/polishing machines for stone, ceramics, glass"
+8211,Solid minerals extraction machine operators,847410,"Machines to sort, screen, wash stone, ores & minerals"
+8211,Solid minerals extraction machine operators,847420,"Machines to crush or grind stone, ores and minerals"
+8219,Mining-plant operators not elsewhere classified,842831,"Mine conveyors/elevators, continuous action"
+8219,Mining-plant operators not elsewhere classified,843031,"Coal or rock cutters, self-propelled"
+8219,Mining-plant operators not elsewhere classified,843039,"Coal or rock cutters, not self-propelled"
+8221,Power-production and transformation plant mechanics and operators,850131,"DC motors, DC generators, of an output < 750 watts"
+8221,Power-production and transformation plant mechanics and operators,850161,"AC generators, of an output < 75 kVA"
+8221,Power-production and transformation plant mechanics and operators,850162,"AC generators, of an output 75-375 kVA"
+8221,Power-production and transformation plant mechanics and operators,850163,"AC generators, of an output 375-750 kVA"
+8221,Power-production and transformation plant mechanics and operators,850240,Electric rotary converters
+8221,Power-production and transformation plant mechanics and operators,850421,Liquid dielectric transformers < 650 KVA
+8221,Power-production and transformation plant mechanics and operators,850422,"Liquid dielectric transformers 650-10,000KVA"
+8221,Power-production and transformation plant mechanics and operators,850423,"Liquid dielectric transformers > 10,000 KVA"
+8221,Power-production and transformation plant mechanics and operators,850431,"Transformers electric, power capacity < 1 KVA, nes"
+8221,Power-production and transformation plant mechanics and operators,850432,"Transformers electric, power capacity 1-16 KVA, nes"
+8221,Power-production and transformation plant mechanics and operators,850433,"Transformers electric, power capacity 16-500 KVA"
+8221,Power-production and transformation plant mechanics and operators,850434,"Transformers electric, power capacity > 500 KVA, nes"
+8221,Power-production and transformation plant mechanics and operators,850440,"Static converters, nes"
+8221,Power-production and transformation plant mechanics and operators,850450,"Inductors, electric"
+8221,Power-production and transformation plant mechanics and operators,853010,"Electric signal, safety & traffic controls, railway"
+8221,Power-production and transformation plant mechanics and operators,853080,"Electric signal, safety & traffic controls, nes"
+8221,Power-production and transformation plant mechanics and operators,853120,Indicator panels incorporating electronic displays
+8221,Power-production and transformation plant mechanics and operators,902830,"Electricity supply, production and calibrating meters"
+8221,Power-production and transformation plant mechanics and operators,903031,Electrical multimeters
+8221,Power-production and transformation plant mechanics and operators,903082,Instr f/msrng semiconduc
+8221,Power-production and transformation plant mechanics and operators,903083,"Instr f/radiat mes,recor"
+8221,Power-production and transformation plant mechanics and operators,903089,Electrical measurement instruments nes
+8221,Power-production and transformation plant mechanics and operators,903141,Optical instr f/insp sem
+8222,Coal- or oil-fired power-generating plant operators,840681,"Turbines nes, of o <40mw"
+8222,Coal- or oil-fired power-generating plant operators,840682,"Turbines nes, of o >40mw"
+8222,Coal- or oil-fired power-generating plant operators,841231,"Pneumatic power engines/motors, linear acting"
+8222,Coal- or oil-fired power-generating plant operators,841239,"Pneumatic power engines/motors, except linear acting"
+8222,Coal- or oil-fired power-generating plant operators,841280,Engines and motors nes
+8222,Coal- or oil-fired power-generating plant operators,841583,"Air conditioners nes, without refrigerating unit"
+8222,Coal- or oil-fired power-generating plant operators,841911,Instantaneous gas water heaters
+8222,Coal- or oil-fired power-generating plant operators,841919,"Instantaneous/storage water heaters, not electric nes"
+8222,Coal- or oil-fired power-generating plant operators,850239,Electric generating sets
+8224,Hydroelectric power-generating station mechanics and machine operators,841011,"Hydraulic turbines, water wheels, power < 1000 kW"
+8224,Hydroelectric power-generating station mechanics and machine operators,841012,"Hydraulic turbines, water wheels, power 1000-10000 kW"
+8224,Hydroelectric power-generating station mechanics and machine operators,841013,"Hydraulic turbines, water wheels, power > 10000 kW"
+8224,Hydroelectric power-generating station mechanics and machine operators,850239,Electric generating sets
+8229,Power production and related plant operators not elsewhere classified,840211,"Water tube boilers, steam production > 45T per hour"
+8229,Power production and related plant operators not elsewhere classified,840212,"Water tube boilers, steam production < 45T per hour"
+8229,Power production and related plant operators not elsewhere classified,840219,"Vapour generating boilers nes, hybrid boilers"
+8229,Power production and related plant operators not elsewhere classified,840220,Super-heated water boilers
+8229,Power production and related plant operators not elsewhere classified,840310,Central heating boilers nes
+8229,Power production and related plant operators not elsewhere classified,840410,Auxiliary plant for steam/vapour generating boilers
+8231,Water works machine operators,840510,"Producer, water and acetylene gas generators"
+8231,Water works machine operators,841319,"Pumps fitted, designed to have, a measuring device nes"
+8231,Water works machine operators,841381,Pumps nes
+8231,Water works machine operators,842121,Water filtering or purifying machinery or apparatus
+8231,Water works machine operators,902610,Equipment to measure or check liquid flow or level
+8231,Water works machine operators,902620,Equipment to measure or check pressure
+8231,Water works machine operators,902680,"Equipment to measure, check gas/liquid properties nes"
+8232,Sewage plant operators,841370,Centrifugal pumps nes
+8232,Sewage plant operators,842121,Water filtering or purifying machinery or apparatus
+8233,Water pump operators,841319,"Pumps fitted, designed to have, a measuring device nes"
+8233,Water pump operators,841350,Reciprocating positive displacement pumps nes
+8233,Water pump operators,841360,Rotary positive displacement pumps nes
+8233,Water pump operators,841370,Centrifugal pumps nes
+8233,Water pump operators,841381,Pumps nes
+8240,Packaging machine operators,842240,Packing or wrapping machinery nes
+8240,Packaging machine operators,842381,Weighing machinery having a capacity < 30 kg nes
+8240,Packaging machine operators,842382,Weighing machinery having a capacity of 30-5000 kg
+8240,Packaging machine operators,844120,"Machines for making paper/board bags, sacks, envelopes"
+8291,Boiler operators (licensed boilermen),840211,"Water tube boilers, steam production > 45T per hour"
+8291,Boiler operators (licensed boilermen),840212,"Water tube boilers, steam production < 45T per hour"
+8291,Boiler operators (licensed boilermen),840310,Central heating boilers nes
+8291,Boiler operators (licensed boilermen),841610,Furnace burners for liquid fuel
+8291,Boiler operators (licensed boilermen),841620,"Furnace burners for solid, gas or combination fuel"
+8291,Boiler operators (licensed boilermen),841630,"Mechanical stokers, grates, ash dischargers, etc"
+8291,Boiler operators (licensed boilermen),851410,Industrial electric resistance heated furnaces & ovens
+8291,Boiler operators (licensed boilermen),902620,Equipment to measure or check pressure
+8292,Decontaminating machine and equipment operators,902219,Non-medical X-ray equipment
+8292,Decontaminating machine and equipment operators,902229,Non-medical apparatus using alpha/beta/gamma radiation
+8292,Decontaminating machine and equipment operators,902740,Exposure meters
+8292,Decontaminating machine and equipment operators,903010,Instruments to measure or detect ionising radiations
+8293,"Agricultural machine operators, mechanics",841931,Dryers for agricultural products
+8293,"Agricultural machine operators, mechanics",842481,Agricultural sprays and powder dispersers
+8293,"Agricultural machine operators, mechanics",843210,Ploughs
+8293,"Agricultural machine operators, mechanics",843221,Disc harrows
+8293,"Agricultural machine operators, mechanics",843229,"Scarifiers, cultivators, weeders and hoes"
+8293,"Agricultural machine operators, mechanics",843230,"Seeders, planters and transplanters"
+8293,"Agricultural machine operators, mechanics",843240,Manure spreaders and fertilizer distributors
+8293,"Agricultural machine operators, mechanics",843280,"Rollers, soil preparation, cultivation machinery, nes"
+8293,"Agricultural machine operators, mechanics",843320,"Hay etc mowers and cutter bars, tractor mounting"
+8293,"Agricultural machine operators, mechanics",843330,Hay tedders and rakes and other haymaking machinery
+8293,"Agricultural machine operators, mechanics",843340,"Straw or fodder balers, including pick-up balers"
+8293,"Agricultural machine operators, mechanics",843351,Combine harvester-threshers
+8293,"Agricultural machine operators, mechanics",843352,Threshing machinery nes
+8293,"Agricultural machine operators, mechanics",843353,Root or tuber harvesting machines
+8293,"Agricultural machine operators, mechanics",843359,Harvesting machinery nes
+8293,"Agricultural machine operators, mechanics",843360,"Machines for cleaning, sorting, grading eggs/fruit/etc"
+8293,"Agricultural machine operators, mechanics",843410,Milking machines
+8293,"Agricultural machine operators, mechanics",843610,Machinery for preparing animal feeding stuffs
+8293,"Agricultural machine operators, mechanics",843621,Poultry incubators and brooders
+8293,"Agricultural machine operators, mechanics",843629,"Poultry-keeping machinery, nes"
+8293,"Agricultural machine operators, mechanics",843680,"Agricultural, bee-keeping plant nes, germination plant"
+8299,Other non manufacturing machine operators not elsewhere classified,841410,Vacuum pumps
+8299,Other non manufacturing machine operators not elsewhere classified,841440,Air compressors mounted on wheeled chassis for towing
+8299,Other non manufacturing machine operators not elsewhere classified,842489,Sprays/powder dispersing machines except agricultural
+8311,Agricultural engine drivers and operators,843210,Ploughs
+8311,Agricultural engine drivers and operators,843221,Disc harrows
+8311,Agricultural engine drivers and operators,843229,"Scarifiers, cultivators, weeders and hoes"
+8311,Agricultural engine drivers and operators,843230,"Seeders, planters and transplanters"
+8311,Agricultural engine drivers and operators,843280,"Rollers, soil preparation, cultivation machinery, nes"
+8311,Agricultural engine drivers and operators,843330,Hay tedders and rakes and other haymaking machinery
+8311,Agricultural engine drivers and operators,843340,"Straw or fodder balers, including pick-up balers"
+8311,Agricultural engine drivers and operators,843351,Combine harvester-threshers
+8311,Agricultural engine drivers and operators,843353,Root or tuber harvesting machines
+8311,Agricultural engine drivers and operators,843359,Harvesting machinery nes
+8311,Agricultural engine drivers and operators,871620,Trailers for agricultural purposes
+8312,Forestry plant operators,842481,Agricultural sprays and powder dispersers
+8312,Forestry plant operators,843230,"Seeders, planters and transplanters"
+8312,Forestry plant operators,843240,Manure spreaders and fertilizer distributors
+8312,Forestry plant operators,846781,Chain saws
+8312,Forestry plant operators,871620,Trailers for agricultural purposes
+8313,Plant protection machine operators,842481,Agricultural sprays and powder dispersers
+8319,"Agricultural and forestry mobile-plant drivers, operators not elsewhere classified",843280,"Rollers, soil preparation, cultivation machinery, nes"
+8319,"Agricultural and forestry mobile-plant drivers, operators not elsewhere classified",843352,Threshing machinery nes
+8321,Earth moving equipment operators,842710,"Self-propelled works trucks, electric motor"
+8321,Earth moving equipment operators,842720,"Self-propelled works trucks, non-electric"
+8321,Earth moving equipment operators,842911,"Bulldozers and angledozers, crawler type"
+8321,Earth moving equipment operators,842919,"Bulldozers and angledozers, wheeled"
+8321,Earth moving equipment operators,842920,"Graders and levellers, self-propelled"
+8321,Earth moving equipment operators,842930,"Scrapers, self-propelled"
+8321,Earth moving equipment operators,842951,Front end shovel loaders
+8321,Earth moving equipment operators,842952,Shovels and excavators with revolving superstructure
+8321,Earth moving equipment operators,842959,"Earth moving/road making equipment, self-propelled nes"
+8321,Earth moving equipment operators,870911,"Work trucks, electrically powered"
+8322,Groundwork machine operators,843010,Pile-drivers and pile-extractors
+8322,Groundwork machine operators,843041,"Boring or sinking machinery nes, self-propelled"
+8322,Groundwork machine operators,843049,"Boring or sinking machinery nes, not self-propelled"
+8322,Groundwork machine operators,843069,"Construction equipment, not self-propelled nes"
+8323,"Road, bridge and railroad building machine operators",842619,Transporter or bridge cranes
+8323,"Road, bridge and railroad building machine operators",842920,"Graders and levellers, self-propelled"
+8323,"Road, bridge and railroad building machine operators",842940,"Tamping machines and road rollers, self- propelled"
+8323,"Road, bridge and railroad building machine operators",842951,Front end shovel loaders
+8323,"Road, bridge and railroad building machine operators",842959,"Earth moving/road making equipment, self-propelled nes"
+8323,"Road, bridge and railroad building machine operators",843010,Pile-drivers and pile-extractors
+8323,"Road, bridge and railroad building machine operators",843041,"Boring or sinking machinery nes, self-propelled"
+8323,"Road, bridge and railroad building machine operators",843049,"Boring or sinking machinery nes, not self-propelled"
+8323,"Road, bridge and railroad building machine operators",843050,"Construction equipment, self-propelled nes"
+8323,"Road, bridge and railroad building machine operators",843061,"Tamping or compacting machinery, not self-propelled"
+8323,"Road, bridge and railroad building machine operators",843069,"Construction equipment, not self-propelled nes"
+8323,"Road, bridge and railroad building machine operators",847910,"Machines for public works, building etc, nes"
+8324,Hydromechanical and floating plant operators,841319,"Pumps fitted, designed to have, a measuring device nes"
+8324,Hydromechanical and floating plant operators,841350,Reciprocating positive displacement pumps nes
+8324,Hydromechanical and floating plant operators,841360,Rotary positive displacement pumps nes
+8324,Hydromechanical and floating plant operators,841370,Centrifugal pumps nes
+8324,Hydromechanical and floating plant operators,841381,Pumps nes
+8324,Hydromechanical and floating plant operators,842959,"Earth moving/road making equipment, self-propelled nes"
+8324,Hydromechanical and floating plant operators,890520,"Floating, submersible drilling or production platforms"
+8325,Well drilling machine operators,843041,"Boring or sinking machinery nes, self-propelled"
+8325,Well drilling machine operators,843049,"Boring or sinking machinery nes, not self-propelled"
+8329,Construction machine operators not elsewhere classified,843050,"Construction equipment, self-propelled nes"
+8329,Construction machine operators not elsewhere classified,843069,"Construction equipment, not self-propelled nes"
+8341,Crane operators,842611,Gantry and overhead travelling cranes on fixed support
+8341,Crane operators,842619,Transporter or bridge cranes
+8341,Crane operators,842620,Tower cranes
+8341,Crane operators,842630,Portal or pedestal jib cranes
+8341,Crane operators,842641,"Cranes & lifting frames, self-propelled, on tyres"
+8341,Crane operators,842649,"Cranes & lifting frames, self-propelled, not on tyres"
+8341,Crane operators,842691,Cranes designed for mounting on road vehicles
+8341,Crane operators,842699,Cranes or derricks nes
+8341,Crane operators,870510,Mobile cranes
+8342,Elevator and conveying machine operators,841382,Liquid elevators
+8342,Elevator and conveying machine operators,842612,"Mobile lifting frames on tyres, straddle carriers"
+8342,Elevator and conveying machine operators,842810,Lifts and skip hoists
+8342,Elevator and conveying machine operators,842820,Pneumatic elevators and conveyors
+8342,Elevator and conveying machine operators,842831,"Mine conveyors/elevators, continuous action"
+8342,Elevator and conveying machine operators,842832,Continuous action goods conveyor or elevator (bucket)
+8342,Elevator and conveying machine operators,842833,Continuous action goods conveyor or elevator belt type
+8342,Elevator and conveying machine operators,842839,Continuous action elevators or conveyors for goods nes
+8342,Elevator and conveying machine operators,842840,Escalators and moving walkways
+8342,Elevator and conveying machine operators,842860,"Teleferiques, chair-lifts, ski-lifts, etc"
+8342,Elevator and conveying machine operators,842890,"Lifting, handling, loading or unloading machinery nes"
+8343,Lift trolley operators,842710,"Self-propelled works trucks, electric motor"
+8343,Lift trolley operators,842720,"Self-propelled works trucks, non-electric"
+8343,Lift trolley operators,842790,"Trucks with lifting/handling equipment, non-powered"
+8343,Lift trolley operators,870911,"Work trucks, electrically powered"
+8344,Loading/unloading machine operators,842790,"Trucks with lifting/handling equipment, non-powered"
+8344,Loading/unloading machine operators,842890,"Lifting, handling, loading or unloading machinery nes"
+8344,Loading/unloading machine operators,850530,Electro-magnetic lifting heads
+8349,Material conveying machine operators not elsewhere classified,842541,Built-in jacking systems for garages
+8349,Material conveying machine operators not elsewhere classified,842890,"Lifting, handling, loading or unloading machinery nes"

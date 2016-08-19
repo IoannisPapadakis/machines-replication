@@ -1,0 +1,3455 @@
+id: 2
+label: Firm import
+coefficients:
+ - id: prob_treatment
+   estimate: -.0586525
+   standard_error: .0193046
+   t_statistic: -3.038259
+   p_value: .0023989
+ - id: prob_Gtreatment
+   estimate: .2066009
+   standard_error: .022922
+   t_statistic: 9.013216
+   p_value: 3.38e-19
+ - id: gender
+   estimate: -.0178578
+   standard_error: .0085672
+   t_statistic: -2.084446
+   p_value: .0371995
+ - id: skilled
+   estimate: .0008367
+   standard_error: .0068284
+   t_statistic: .1225317
+   p_value: .9024857
+ - id: age
+   estimate: -.0069673
+   standard_error: .0019995
+   t_statistic: -3.484607
+   p_value: .0004995
+ - id: age2
+   estimate: .0086615
+   standard_error: .0025889
+   t_statistic: 3.345619
+   p_value: .0008306
+ - id: lnK
+   estimate: .0545855
+   standard_error: .0047919
+   t_statistic: 11.39113
+   p_value: 1.72e-29
+ - id: lnL
+   estimate: .2558129
+   standard_error: .0242872
+   t_statistic: 10.53283
+   p_value: 1.60e-25
+ - id: lnL2
+   estimate: -.0205729
+   standard_error: .0018617
+   t_statistic: -11.05053
+   p_value: 6.99e-28
+ - id: foreign
+   estimate: .0607383
+   standard_error: .0104339
+   t_statistic: 5.821257
+   p_value: 6.42e-09
+ - id: firm_age
+   estimate: .0395179
+   standard_error: .0048561
+   t_statistic: 8.137702
+   p_value: 5.72e-16
+ - id: firm_age2
+   estimate: -.0035143
+   standard_error: .0004395
+   t_statistic: -7.995912
+   p_value: 1.79e-15
+ - id: _Ioccupatio_2
+   estimate: .070411
+   standard_error: .0620179
+   t_statistic: 1.135334
+   p_value: .2563214
+ - id: _Ioccupatio_3
+   estimate: .0504307
+   standard_error: .0694984
+   t_statistic: .7256385
+   p_value: .468114
+ - id: _Ioccupatio_4
+   estimate: .0671723
+   standard_error: .0731328
+   t_statistic: .9184972
+   p_value: .3584285
+ - id: _Ioccupatio_5
+   estimate: .0998989
+   standard_error: .0730908
+   t_statistic: 1.366778
+   p_value: .1717918
+ - id: _Ioccupatio_6
+   estimate: .0943787
+   standard_error: .0743243
+   t_statistic: 1.269823
+   p_value: .2042409
+ - id: _Ioccupatio_7
+   estimate: .0983986
+   standard_error: .0751909
+   t_statistic: 1.30865
+   p_value: .1907479
+ - id: _Ioccupatio_8
+   estimate: .0762026
+   standard_error: .0766653
+   t_statistic: .9939645
+   p_value: .320316
+ - id: _Ioccupatio_9
+   estimate: .1024733
+   standard_error: .0714202
+   t_statistic: 1.434794
+   p_value: .1514444
+ - id: _Ioccupatio_10
+   estimate: .1002412
+   standard_error: .0745872
+   t_statistic: 1.343945
+   p_value: .1790622
+ - id: o._Ioccupatio_11
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_12
+   estimate: .1096051
+   standard_error: .0901388
+   t_statistic: 1.21596
+   p_value: .2240908
+ - id: _Ioccupatio_13
+   estimate: .0573386
+   standard_error: .0865416
+   t_statistic: .6625558
+   p_value: .5076632
+ - id: _Ioccupatio_14
+   estimate: .1442685
+   standard_error: .0818047
+   t_statistic: 1.763572
+   p_value: .0779004
+ - id: _Ioccupatio_15
+   estimate: .1320519
+   standard_error: .0788361
+   t_statistic: 1.675019
+   p_value: .0940291
+ - id: _Ioccupatio_16
+   estimate: .1958418
+   standard_error: .0823079
+   t_statistic: 2.379379
+   p_value: .0174007
+ - id: _Ioccupatio_17
+   estimate: .1681145
+   standard_error: .0796772
+   t_statistic: 2.109944
+   p_value: .0349413
+ - id: _Ioccupatio_18
+   estimate: .1775783
+   standard_error: .0798197
+   t_statistic: 2.224741
+   p_value: .0261688
+ - id: _Ioccupatio_19
+   estimate: .1077977
+   standard_error: .0861271
+   t_statistic: 1.251611
+   p_value: .2108039
+ - id: _Ioccupatio_20
+   estimate: .1685066
+   standard_error: .0827618
+   t_statistic: 2.036042
+   p_value: .0418291
+ - id: _Ioccupatio_21
+   estimate: .2399197
+   standard_error: .0762834
+   t_statistic: 3.145113
+   p_value: .0016756
+ - id: o._Ioccupatio_22
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_23
+   estimate: .0078009
+   standard_error: .0958731
+   t_statistic: .0813664
+   p_value: .9351557
+ - id: _Ioccupatio_24
+   estimate: .0502688
+   standard_error: .0682814
+   t_statistic: .7362009
+   p_value: .4616629
+ - id: _Ioccupatio_25
+   estimate: .0303694
+   standard_error: .0680897
+   t_statistic: .4460202
+   p_value: .6556131
+ - id: _Ioccupatio_26
+   estimate: .107271
+   standard_error: .1076365
+   t_statistic: .9966038
+   p_value: .3190329
+ - id: _Ioccupatio_27
+   estimate: .1042036
+   standard_error: .0994245
+   t_statistic: 1.048067
+   p_value: .2946875
+ - id: _Ioccupatio_28
+   estimate: .0911586
+   standard_error: .0954571
+   t_statistic: .9549693
+   p_value: .339666
+ - id: _Ioccupatio_29
+   estimate: .1517083
+   standard_error: .1015926
+   t_statistic: 1.4933
+   p_value: .1354581
+ - id: _Ioccupatio_30
+   estimate: .248843
+   standard_error: .1472796
+   t_statistic: 1.689596
+   p_value: .0912036
+ - id: _Ioccupatio_31
+   estimate: .205679
+   standard_error: .1240049
+   t_statistic: 1.658636
+   p_value: .0972881
+ - id: _Ioccupatio_32
+   estimate: .244376
+   standard_error: .1151942
+   t_statistic: 2.121426
+   p_value: .0339634
+ - id: o._Ioccupatio_33
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_34
+   estimate: -.0060255
+   standard_error: .1032768
+   t_statistic: -.0583434
+   p_value: .9534788
+ - id: _Ioccupatio_35
+   estimate: -.1270459
+   standard_error: .1001528
+   t_statistic: -1.268521
+   p_value: .2047051
+ - id: _Ioccupatio_36
+   estimate: .0430791
+   standard_error: .0926822
+   t_statistic: .464805
+   p_value: .642103
+ - id: _Ioccupatio_37
+   estimate: .1742743
+   standard_error: .0830202
+   t_statistic: 2.099179
+   p_value: .03588
+ - id: _Ioccupatio_38
+   estimate: .2108008
+   standard_error: .0804308
+   t_statistic: 2.620897
+   p_value: .0088118
+ - id: _Ioccupatio_39
+   estimate: .1184677
+   standard_error: .0818761
+   t_statistic: 1.446914
+   p_value: .1480198
+ - id: _Ioccupatio_40
+   estimate: .1313322
+   standard_error: .0764329
+   t_statistic: 1.718267
+   p_value: .0858455
+ - id: _Ioccupatio_41
+   estimate: .1682622
+   standard_error: .0789228
+   t_statistic: 2.131984
+   p_value: .0330848
+ - id: _Ioccupatio_42
+   estimate: .1716889
+   standard_error: .0774873
+   t_statistic: 2.215703
+   p_value: .0267826
+ - id: _Ioccupatio_43
+   estimate: .2114094
+   standard_error: .0751166
+   t_statistic: 2.814415
+   p_value: .0049168
+ - id: _Ioccupatio_44
+   estimate: .2040601
+   standard_error: .0779182
+   t_statistic: 2.618901
+   p_value: .0088634
+ - id: _Ioccupatio_45
+   estimate: .2042422
+   standard_error: .0779584
+   t_statistic: 2.619886
+   p_value: .0088379
+ - id: o._Ioccupatio_46
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_47
+   estimate: .0107629
+   standard_error: .0788612
+   t_statistic: .1364794
+   p_value: .8914509
+ - id: _Ioccupatio_48
+   estimate: .1222242
+   standard_error: .0755718
+   t_statistic: 1.617325
+   p_value: .1059075
+ - id: _Ioccupatio_49
+   estimate: .1122149
+   standard_error: .0873568
+   t_statistic: 1.284559
+   p_value: .1990405
+ - id: _Ioccupatio_50
+   estimate: .2153921
+   standard_error: .0801638
+   t_statistic: 2.6869
+   p_value: .0072495
+ - id: _Ioccupatio_51
+   estimate: .2062059
+   standard_error: .0771564
+   t_statistic: 2.672569
+   p_value: .0075658
+ - id: _Ioccupatio_52
+   estimate: .2057454
+   standard_error: .0761232
+   t_statistic: 2.702794
+   p_value: .0069126
+ - id: _Ioccupatio_53
+   estimate: .2053688
+   standard_error: .0772271
+   t_statistic: 2.659285
+   p_value: .0078701
+ - id: _Ioccupatio_54
+   estimate: .2312138
+   standard_error: .0745012
+   t_statistic: 3.10349
+   p_value: .0019294
+ - id: _Ioccupatio_55
+   estimate: .1893783
+   standard_error: .0771899
+   t_statistic: 2.453408
+   p_value: .0142045
+ - id: _Ioccupatio_56
+   estimate: .2538298
+   standard_error: .0757219
+   t_statistic: 3.352133
+   p_value: .0008113
+ - id: _Ioccupatio_57
+   estimate: .3143869
+   standard_error: .0728935
+   t_statistic: 4.312962
+   p_value: .0000166
+ - id: _Ioccupatio_58
+   estimate: .3249651
+   standard_error: .0768518
+   t_statistic: 4.228465
+   p_value: .0000242
+ - id: o._Ioccupatio_59
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_60
+   estimate: .2534851
+   standard_error: .1158586
+   t_statistic: 2.187884
+   p_value: .0287508
+ - id: _Ioccupatio_61
+   estimate: .2354262
+   standard_error: .100295
+   t_statistic: 2.347339
+   p_value: .0189693
+ - id: _Ioccupatio_62
+   estimate: .2445586
+   standard_error: .0948472
+   t_statistic: 2.578447
+   p_value: .0099693
+ - id: _Ioccupatio_63
+   estimate: .3481768
+   standard_error: .0977273
+   t_statistic: 3.562738
+   p_value: .0003724
+ - id: _Ioccupatio_64
+   estimate: .1679544
+   standard_error: .1032169
+   t_statistic: 1.627199
+   p_value: .1037943
+ - id: _Ioccupatio_65
+   estimate: .2345645
+   standard_error: .0853079
+   t_statistic: 2.749621
+   p_value: .0060003
+ - id: _Ioccupatio_66
+   estimate: .2251519
+   standard_error: .1005378
+   t_statistic: 2.239476
+   p_value: .025194
+ - id: _Ioccupatio_67
+   estimate: .245137
+   standard_error: .1085499
+   t_statistic: 2.258288
+   p_value: .0239954
+ - id: _Ioccupatio_68
+   estimate: .1815895
+   standard_error: .1177248
+   t_statistic: 1.542492
+   p_value: .123054
+ - id: _Ioccupatio_69
+   estimate: .3197354
+   standard_error: .0827584
+   t_statistic: 3.863481
+   p_value: .000114
+ - id: o._Ioccupatio_70
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_71
+   estimate: .0526298
+   standard_error: .0879802
+   t_statistic: .5982014
+   p_value: .5497483
+ - id: _Ioccupatio_72
+   estimate: .1399152
+   standard_error: .0829743
+   t_statistic: 1.686247
+   p_value: .0918467
+ - id: _Ioccupatio_73
+   estimate: .2689625
+   standard_error: .0954456
+   t_statistic: 2.817968
+   p_value: .0048628
+ - id: _Ioccupatio_74
+   estimate: .2311212
+   standard_error: .0879959
+   t_statistic: 2.626501
+   p_value: .0086683
+ - id: _Ioccupatio_75
+   estimate: .2815985
+   standard_error: .0883922
+   t_statistic: 3.185787
+   p_value: .0014576
+ - id: _Ioccupatio_76
+   estimate: .2679406
+   standard_error: .0821204
+   t_statistic: 3.262777
+   p_value: .001115
+ - id: _Ioccupatio_77
+   estimate: .1963956
+   standard_error: .0876123
+   t_statistic: 2.241644
+   p_value: .0250533
+ - id: _Ioccupatio_78
+   estimate: .1895422
+   standard_error: .0883081
+   t_statistic: 2.146374
+   p_value: .0319188
+ - id: _Ioccupatio_79
+   estimate: .1949593
+   standard_error: .0833843
+   t_statistic: 2.33808
+   p_value: .019445
+ - id: _Ioccupatio_80
+   estimate: .182176
+   standard_error: .087705
+   t_statistic: 2.077146
+   p_value: .0378684
+ - id: _Ioccupatio_81
+   estimate: .1315069
+   standard_error: .0945856
+   t_statistic: 1.390348
+   p_value: .1645209
+ - id: _Ioccupatio_82
+   estimate: .2341067
+   standard_error: .0911111
+   t_statistic: 2.569465
+   p_value: .0102309
+ - id: o._Ioccupatio_83
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_84
+   estimate: -.0707078
+   standard_error: .0818199
+   t_statistic: -.8641885
+   p_value: .3875497
+ - id: _Ioccupatio_85
+   estimate: -.044527
+   standard_error: .0804238
+   t_statistic: -.5536548
+   p_value: .5798541
+ - id: _Ioccupatio_86
+   estimate: .0787043
+   standard_error: .0830767
+   t_statistic: .9473689
+   p_value: .3435231
+ - id: _Ioccupatio_87
+   estimate: .0873282
+   standard_error: .0777866
+   t_statistic: 1.122664
+   p_value: .2616652
+ - id: _Ioccupatio_88
+   estimate: .0812537
+   standard_error: .0799284
+   t_statistic: 1.016582
+   p_value: .30943
+ - id: _Ioccupatio_89
+   estimate: .100286
+   standard_error: .08058
+   t_statistic: 1.244552
+   p_value: .2133883
+ - id: _Ioccupatio_90
+   estimate: .0947026
+   standard_error: .0815206
+   t_statistic: 1.161701
+   p_value: .2454443
+ - id: _Ioccupatio_91
+   estimate: .133034
+   standard_error: .0810851
+   t_statistic: 1.640671
+   p_value: .100965
+ - id: _Ioccupatio_92
+   estimate: .0976085
+   standard_error: .0792644
+   t_statistic: 1.231429
+   p_value: .218254
+ - id: _Ioccupatio_93
+   estimate: .1088009
+   standard_error: .0787851
+   t_statistic: 1.380982
+   p_value: .1673818
+ - id: _Ioccupatio_94
+   estimate: .1684739
+   standard_error: .0806533
+   t_statistic: 2.088865
+   p_value: .0367994
+ - id: _Ioccupatio_95
+   estimate: .2044181
+   standard_error: .0801186
+   t_statistic: 2.551446
+   p_value: .0107743
+ - id: o._Ioccupatio_96
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_97
+   estimate: .0471028
+   standard_error: .0900288
+   t_statistic: .5231969
+   p_value: .6008738
+ - id: _Ioccupatio_98
+   estimate: .0182096
+   standard_error: .0870329
+   t_statistic: .2092261
+   p_value: .8342852
+ - id: _Ioccupatio_99
+   estimate: .0594467
+   standard_error: .1017289
+   t_statistic: .5843639
+   p_value: .5590171
+ - id: _Ioccupatio_100
+   estimate: .1010316
+   standard_error: .0896026
+   t_statistic: 1.127552
+   p_value: .2595945
+ - id: _Ioccupatio_101
+   estimate: .1203075
+   standard_error: .0885162
+   t_statistic: 1.359158
+   p_value: .1741933
+ - id: _Ioccupatio_102
+   estimate: .2181367
+   standard_error: .0826524
+   t_statistic: 2.639205
+   p_value: .0083507
+ - id: _Ioccupatio_103
+   estimate: .0763483
+   standard_error: .0862226
+   t_statistic: .8854788
+   p_value: .3759656
+ - id: _Ioccupatio_104
+   estimate: .0503406
+   standard_error: .0939658
+   t_statistic: .5357334
+   p_value: .5921804
+ - id: _Ioccupatio_105
+   estimate: .1736775
+   standard_error: .0940456
+   t_statistic: 1.846738
+   p_value: .0648783
+ - id: _Ioccupatio_106
+   estimate: .1027343
+   standard_error: .0928717
+   t_statistic: 1.106196
+   p_value: .2687255
+ - id: _Ioccupatio_107
+   estimate: .1300775
+   standard_error: .0875948
+   t_statistic: 1.484991
+   p_value: .1376457
+ - id: _Ioccupatio_108
+   estimate: .1258999
+   standard_error: .0877395
+   t_statistic: 1.434928
+   p_value: .1514062
+ - id: o._Ioccupatio_109
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_110
+   estimate: .0341562
+   standard_error: .1085819
+   t_statistic: .3145667
+   p_value: .7531114
+ - id: _Ioccupatio_111
+   estimate: .1287064
+   standard_error: .0935791
+   t_statistic: 1.375375
+   p_value: .1691124
+ - id: _Ioccupatio_112
+   estimate: .1187046
+   standard_error: .0870389
+   t_statistic: 1.363812
+   p_value: .1727237
+ - id: _Ioccupatio_113
+   estimate: .0928798
+   standard_error: .0909194
+   t_statistic: 1.021562
+   p_value: .307066
+ - id: _Ioccupatio_114
+   estimate: .1486677
+   standard_error: .0864598
+   t_statistic: 1.719501
+   p_value: .0856208
+ - id: _Ioccupatio_115
+   estimate: .0763284
+   standard_error: .083313
+   t_statistic: .9161639
+   p_value: .3596506
+ - id: _Ioccupatio_116
+   estimate: .2394089
+   standard_error: .0764308
+   t_statistic: 3.132362
+   p_value: .0017499
+ - id: _Ioccupatio_117
+   estimate: .1987683
+   standard_error: .0766486
+   t_statistic: 2.593241
+   p_value: .0095513
+ - id: _Ioccupatio_118
+   estimate: .2051804
+   standard_error: .0772896
+   t_statistic: 2.654696
+   p_value: .0079777
+ - id: _Ioccupatio_119
+   estimate: .1513035
+   standard_error: .0804295
+   t_statistic: 1.881195
+   p_value: .060037
+ - id: o._Ioccupatio_120
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_121
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_122
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_123
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_124
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_125
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_126
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_127
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_128
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_129
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_130
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_131
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_132
+   estimate: .2488882
+   standard_error: .0704842
+   t_statistic: 3.531123
+   p_value: .0004197
+ - id: _Ioccupatio_133
+   estimate: .2205905
+   standard_error: .0693769
+   t_statistic: 3.179598
+   p_value: .001489
+ - id: _Ioccupatio_134
+   estimate: -.1854326
+   standard_error: .2732791
+   t_statistic: -.6785466
+   p_value: .4974747
+ - id: _Ioccupatio_135
+   estimate: .1808127
+   standard_error: .0727758
+   t_statistic: 2.484518
+   p_value: .0130239
+ - id: _Ioccupatio_136
+   estimate: .2298794
+   standard_error: .0817471
+   t_statistic: 2.812079
+   p_value: .0049525
+ - id: _Ioccupatio_137
+   estimate: .1663612
+   standard_error: .0847878
+   t_statistic: 1.962088
+   p_value: .0498396
+ - id: _Ioccupatio_138
+   estimate: .0227058
+   standard_error: .0912433
+   t_statistic: .2488487
+   p_value: .803494
+ - id: _Ioccupatio_139
+   estimate: .0875367
+   standard_error: .0698356
+   t_statistic: 1.253468
+   p_value: .2101279
+ - id: _Ioccupatio_140
+   estimate: .1123016
+   standard_error: .0953942
+   t_statistic: 1.177237
+   p_value: .2391891
+ - id: _Ioccupatio_141
+   estimate: .1716494
+   standard_error: .0965831
+   t_statistic: 1.77722
+   p_value: .0756279
+ - id: _Ioccupatio_142
+   estimate: .0192397
+   standard_error: .0708769
+   t_statistic: .2714528
+   p_value: .7860605
+ - id: _Ioccupatio_143
+   estimate: .0431782
+   standard_error: .0719804
+   t_statistic: .5998614
+   p_value: .5486415
+ - id: o._Ioccupatio_144
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_145
+   estimate: .2227396
+   standard_error: .0777545
+   t_statistic: 2.864652
+   p_value: .0042021
+ - id: _Ioccupatio_146
+   estimate: .1172836
+   standard_error: .0772946
+   t_statistic: 1.517357
+   p_value: .1292762
+ - id: _Ioccupatio_147
+   estimate: .2575265
+   standard_error: .0665393
+   t_statistic: 3.870293
+   p_value: .0001109
+ - id: _Ioccupatio_148
+   estimate: .011722
+   standard_error: .153544
+   t_statistic: .0763428
+   p_value: .9391512
+ - id: _Ioccupatio_149
+   estimate: .1476868
+   standard_error: .0681807
+   t_statistic: 2.166108
+   p_value: .0303773
+ - id: _Ioccupatio_150
+   estimate: .1245983
+   standard_error: .0684423
+   t_statistic: 1.820487
+   p_value: .0687791
+ - id: _Ioccupatio_151
+   estimate: .132748
+   standard_error: .0742905
+   t_statistic: 1.786877
+   p_value: .0740529
+ - id: _Ioccupatio_152
+   estimate: .0288544
+   standard_error: .0722113
+   t_statistic: .3995828
+   p_value: .6894908
+ - id: _Ioccupatio_153
+   estimate: .0487657
+   standard_error: .0711806
+   t_statistic: .6850979
+   p_value: .4933322
+ - id: _Ioccupatio_154
+   estimate: .0911324
+   standard_error: .0784167
+   t_statistic: 1.162155
+   p_value: .2452598
+ - id: _Ioccupatio_155
+   estimate: .0536639
+   standard_error: .0721305
+   t_statistic: .7439843
+   p_value: .4569411
+ - id: _Ioccupatio_156
+   estimate: .2099405
+   standard_error: .0968443
+   t_statistic: 2.167815
+   p_value: .0302469
+ - id: o._Ioccupatio_157
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_158
+   estimate: .0986288
+   standard_error: .0817065
+   t_statistic: 1.207111
+   p_value: .2274795
+ - id: _Ioccupatio_159
+   estimate: .0753038
+   standard_error: .0801344
+   t_statistic: .9397193
+   p_value: .3474332
+ - id: _Ioccupatio_160
+   estimate: .0979481
+   standard_error: .0818112
+   t_statistic: 1.197246
+   p_value: .2313002
+ - id: _Ioccupatio_161
+   estimate: .1189824
+   standard_error: .0772178
+   t_statistic: 1.540866
+   p_value: .1234491
+ - id: _Ioccupatio_162
+   estimate: .1302196
+   standard_error: .0753588
+   t_statistic: 1.727995
+   p_value: .0840865
+ - id: _Ioccupatio_163
+   estimate: .1699136
+   standard_error: .0709469
+   t_statistic: 2.394941
+   p_value: .0166807
+ - id: _Ioccupatio_164
+   estimate: .1741969
+   standard_error: .0716208
+   t_statistic: 2.432212
+   p_value: .0150619
+ - id: _Ioccupatio_165
+   estimate: .1382225
+   standard_error: .0722067
+   t_statistic: 1.914263
+   p_value: .0556766
+ - id: _Ioccupatio_166
+   estimate: .1441356
+   standard_error: .0729911
+   t_statistic: 1.9747
+   p_value: .0483889
+ - id: _Ioccupatio_167
+   estimate: .1426137
+   standard_error: .0747457
+   t_statistic: 1.907986
+   p_value: .0564833
+ - id: _Ioccupatio_168
+   estimate: .1704821
+   standard_error: .0743937
+   t_statistic: 2.291619
+   p_value: .0219929
+ - id: _Ioccupatio_169
+   estimate: .236729
+   standard_error: .0737089
+   t_statistic: 3.211674
+   p_value: .0013328
+ - id: o._Ioccupatio_170
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_171
+   estimate: .1477005
+   standard_error: .1061617
+   t_statistic: 1.391279
+   p_value: .1642385
+ - id: _Ioccupatio_172
+   estimate: .0808403
+   standard_error: .1109739
+   t_statistic: .728462
+   p_value: .4663846
+ - id: _Ioccupatio_173
+   estimate: .0821963
+   standard_error: .1082883
+   t_statistic: .7590505
+   p_value: .4478788
+ - id: _Ioccupatio_174
+   estimate: .0646164
+   standard_error: .1233995
+   t_statistic: .5236356
+   p_value: .6005686
+ - id: _Ioccupatio_175
+   estimate: .0269411
+   standard_error: .1173645
+   t_statistic: .2295507
+   p_value: .8184557
+ - id: _Ioccupatio_176
+   estimate: .0233964
+   standard_error: .1122124
+   t_statistic: .2085015
+   p_value: .8348508
+ - id: _Ioccupatio_177
+   estimate: .1211354
+   standard_error: .0831671
+   t_statistic: 1.45653
+   p_value: .1453452
+ - id: _Ioccupatio_178
+   estimate: .1567764
+   standard_error: .099227
+   t_statistic: 1.579977
+   p_value: .1142118
+ - id: _Ioccupatio_179
+   estimate: .0966846
+   standard_error: .0969363
+   t_statistic: .9974031
+   p_value: .318645
+ - id: _Ioccupatio_180
+   estimate: .0522914
+   standard_error: .1077005
+   t_statistic: .4855261
+   p_value: .6273368
+ - id: _Ioccupatio_181
+   estimate: .178851
+   standard_error: .082813
+   t_statistic: 2.159697
+   p_value: .0308709
+ - id: _Ioccupatio_182
+   estimate: .1811502
+   standard_error: .0836124
+   t_statistic: 2.166548
+   p_value: .0303436
+ - id: o._Ioccupatio_183
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_184
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_185
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_186
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_187
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_188
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_189
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_190
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_191
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_192
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_193
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_194
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_195
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_196
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_197
+   estimate: .0859625
+   standard_error: .0826715
+   t_statistic: 1.039808
+   p_value: .2985085
+ - id: _Ioccupatio_198
+   estimate: .1181671
+   standard_error: .0767367
+   t_statistic: 1.539903
+   p_value: .1236837
+ - id: _Ioccupatio_199
+   estimate: .0703367
+   standard_error: .0750583
+   t_statistic: .9370935
+   p_value: .3487819
+ - id: _Ioccupatio_200
+   estimate: .0871725
+   standard_error: .0730646
+   t_statistic: 1.193088
+   p_value: .2329241
+ - id: _Ioccupatio_201
+   estimate: .1729102
+   standard_error: .0719448
+   t_statistic: 2.403373
+   p_value: .0163017
+ - id: _Ioccupatio_202
+   estimate: .2057325
+   standard_error: .0700351
+   t_statistic: 2.937561
+   p_value: .0033319
+ - id: _Ioccupatio_203
+   estimate: .2060662
+   standard_error: .0700833
+   t_statistic: 2.940305
+   p_value: .0033026
+ - id: _Ioccupatio_204
+   estimate: .1776527
+   standard_error: .0710255
+   t_statistic: 2.501253
+   p_value: .0124255
+ - id: _Ioccupatio_205
+   estimate: .1852488
+   standard_error: .070858
+   t_statistic: 2.614367
+   p_value: .0089816
+ - id: _Ioccupatio_206
+   estimate: .1847282
+   standard_error: .0705662
+   t_statistic: 2.617801
+   p_value: .0088919
+ - id: _Ioccupatio_207
+   estimate: .2286061
+   standard_error: .069625
+   t_statistic: 3.283389
+   p_value: .0010368
+ - id: _Ioccupatio_208
+   estimate: .2199279
+   standard_error: .0707558
+   t_statistic: 3.108267
+   p_value: .0018986
+ - id: o._Ioccupatio_209
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_210
+   estimate: .1593865
+   standard_error: .1251503
+   t_statistic: 1.27356
+   p_value: .2029126
+ - id: _Ioccupatio_211
+   estimate: .0788206
+   standard_error: .1163389
+   t_statistic: .6775088
+   p_value: .4981327
+ - id: _Ioccupatio_212
+   estimate: -.006252
+   standard_error: .1205044
+   t_statistic: -.0518823
+   p_value: .9586258
+ - id: _Ioccupatio_213
+   estimate: -.0090238
+   standard_error: .0988018
+   t_statistic: -.091332
+   p_value: .9272346
+ - id: _Ioccupatio_214
+   estimate: -.0228644
+   standard_error: .1001311
+   t_statistic: -.2283448
+   p_value: .8193929
+ - id: _Ioccupatio_215
+   estimate: .136175
+   standard_error: .0956406
+   t_statistic: 1.42382
+   p_value: .154597
+ - id: _Ioccupatio_216
+   estimate: .0861427
+   standard_error: .0954378
+   t_statistic: .9026053
+   p_value: .366804
+ - id: _Ioccupatio_217
+   estimate: .1455341
+   standard_error: .091178
+   t_statistic: 1.596153
+   p_value: .1105542
+ - id: _Ioccupatio_218
+   estimate: .1683911
+   standard_error: .089578
+   t_statistic: 1.879825
+   p_value: .0602235
+ - id: _Ioccupatio_219
+   estimate: .1596313
+   standard_error: .0930923
+   t_statistic: 1.714765
+   p_value: .0864861
+ - id: _Ioccupatio_220
+   estimate: .1528199
+   standard_error: .0899412
+   t_statistic: 1.699109
+   p_value: .0893968
+ - id: _Ioccupatio_221
+   estimate: .143817
+   standard_error: .0905491
+   t_statistic: 1.588275
+   p_value: .1123239
+ - id: o._Ioccupatio_222
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_223
+   estimate: .0862182
+   standard_error: .1697565
+   t_statistic: .5078933
+   p_value: .6115635
+ - id: _Ioccupatio_224
+   estimate: -.0598436
+   standard_error: .1268692
+   t_statistic: -.4716954
+   p_value: .6371767
+ - id: _Ioccupatio_225
+   estimate: .0464667
+   standard_error: .1376775
+   t_statistic: .3375038
+   p_value: .7357595
+ - id: _Ioccupatio_226
+   estimate: -.0054172
+   standard_error: .1621012
+   t_statistic: -.0334187
+   p_value: .9733428
+ - id: _Ioccupatio_227
+   estimate: -.0449892
+   standard_error: .131916
+   t_statistic: -.3410442
+   p_value: .7330929
+ - id: _Ioccupatio_228
+   estimate: .0784732
+   standard_error: .1165223
+   t_statistic: .6734611
+   p_value: .5007031
+ - id: _Ioccupatio_229
+   estimate: .0586765
+   standard_error: .1306793
+   t_statistic: .4490118
+   p_value: .6534538
+ - id: _Ioccupatio_230
+   estimate: .0802017
+   standard_error: .1331708
+   t_statistic: .6022471
+   p_value: .5470527
+ - id: _Ioccupatio_231
+   estimate: .1357667
+   standard_error: .1188478
+   t_statistic: 1.142358
+   p_value: .2533916
+ - id: _Ioccupatio_232
+   estimate: .2502867
+   standard_error: .1077082
+   t_statistic: 2.323748
+   p_value: .0202019
+ - id: o._Ioccupatio_233
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_234
+   estimate: -.0426553
+   standard_error: .1138934
+   t_statistic: -.3745192
+   p_value: .7080431
+ - id: _Ioccupatio_235
+   estimate: -.1189556
+   standard_error: .1401845
+   t_statistic: -.848564
+   p_value: .396188
+ - id: _Ioccupatio_236
+   estimate: .0579783
+   standard_error: .119981
+   t_statistic: .4832292
+   p_value: .6289664
+ - id: _Ioccupatio_237
+   estimate: -.0763402
+   standard_error: .1261493
+   t_statistic: -.6051575
+   p_value: .5451177
+ - id: _Ioccupatio_238
+   estimate: .0939157
+   standard_error: .1423041
+   t_statistic: .6599647
+   p_value: .5093244
+ - id: _Ioccupatio_239
+   estimate: .0585486
+   standard_error: .1417998
+   t_statistic: .4128964
+   p_value: .6797105
+ - id: _Ioccupatio_240
+   estimate: .1784313
+   standard_error: .1315244
+   t_statistic: 1.35664
+   p_value: .1749921
+ - id: _Ioccupatio_241
+   estimate: .0462011
+   standard_error: .1216918
+   t_statistic: .3796563
+   p_value: .704226
+ - id: _Ioccupatio_242
+   estimate: .1854263
+   standard_error: .0883623
+   t_statistic: 2.098479
+   p_value: .0359418
+ - id: _Ioccupatio_243
+   estimate: .3125985
+   standard_error: .1398707
+   t_statistic: 2.234911
+   p_value: .0254926
+ - id: o._Ioccupatio_244
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_245
+   estimate: .1435608
+   standard_error: .1829111
+   t_statistic: .7848663
+   p_value: .4325906
+ - id: _Ioccupatio_246
+   estimate: .0919928
+   standard_error: .1471997
+   t_statistic: .6249527
+   p_value: .5320471
+ - id: _Ioccupatio_247
+   estimate: .1938584
+   standard_error: .1208718
+   t_statistic: 1.603834
+   p_value: .1088503
+ - id: _Ioccupatio_248
+   estimate: .1308491
+   standard_error: .1214248
+   t_statistic: 1.077615
+   p_value: .2812877
+ - id: _Ioccupatio_249
+   estimate: .2888388
+   standard_error: .1001066
+   t_statistic: 2.885313
+   p_value: .0039366
+ - id: _Ioccupatio_250
+   estimate: .2422521
+   standard_error: .0881981
+   t_statistic: 2.74668
+   p_value: .0060542
+ - id: _Ioccupatio_251
+   estimate: .2651114
+   standard_error: .1002462
+   t_statistic: 2.644604
+   p_value: .008219
+ - id: _Ioccupatio_252
+   estimate: .2450672
+   standard_error: .0870729
+   t_statistic: 2.814505
+   p_value: .0049154
+ - id: _Ioccupatio_253
+   estimate: .2043286
+   standard_error: .0827517
+   t_statistic: 2.469178
+   p_value: .0135947
+ - id: _Ioccupatio_254
+   estimate: .2439883
+   standard_error: .0913477
+   t_statistic: 2.670984
+   p_value: .0076016
+ - id: o._Ioccupatio_255
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_256
+   estimate: -.0516611
+   standard_error: .1521729
+   t_statistic: -.3394896
+   p_value: .7342634
+ - id: _Ioccupatio_257
+   estimate: -.3163597
+   standard_error: .12466
+   t_statistic: -2.537781
+   p_value: .0112033
+ - id: _Ioccupatio_258
+   estimate: -.1320269
+   standard_error: .1655388
+   t_statistic: -.7975583
+   p_value: .4251866
+ - id: _Ioccupatio_259
+   estimate: -.3638476
+   standard_error: .0975767
+   t_statistic: -3.728839
+   p_value: .0001957
+ - id: _Ioccupatio_260
+   estimate: -.074321
+   standard_error: .1440103
+   t_statistic: -.5160815
+   p_value: .6058335
+ - id: _Ioccupatio_261
+   estimate: .0428261
+   standard_error: .2000256
+   t_statistic: .2141033
+   p_value: .8304803
+ - id: _Ioccupatio_262
+   estimate: .0699957
+   standard_error: .1276565
+   t_statistic: .5483132
+   p_value: .5835155
+ - id: _Ioccupatio_263
+   estimate: .2413692
+   standard_error: .1186701
+   t_statistic: 2.033951
+   p_value: .0420396
+ - id: _Ioccupatio_264
+   estimate: .2035706
+   standard_error: .0800994
+   t_statistic: 2.541475
+   p_value: .0110858
+ - id: _Ioccupatio_265
+   estimate: .2366697
+   standard_error: .0757246
+   t_statistic: 3.125401
+   p_value: .0017917
+ - id: o._Ioccupatio_266
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_267
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_268
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_269
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_270
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_271
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_272
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_273
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_274
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_275
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_276
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_277
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_278
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_279
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_280
+   estimate: .0902788
+   standard_error: .1134998
+   t_statistic: .7954094
+   p_value: .4264349
+ - id: _Ioccupatio_281
+   estimate: -.0529699
+   standard_error: .1013167
+   t_statistic: -.5228157
+   p_value: .601139
+ - id: _Ioccupatio_282
+   estimate: .0987049
+   standard_error: .1012162
+   t_statistic: .9751891
+   p_value: .3295409
+ - id: _Ioccupatio_283
+   estimate: .0727249
+   standard_error: .0933746
+   t_statistic: .7788507
+   p_value: .4361258
+ - id: _Ioccupatio_284
+   estimate: .0235324
+   standard_error: .0906661
+   t_statistic: .2595497
+   p_value: .795228
+ - id: _Ioccupatio_285
+   estimate: .0480553
+   standard_error: .092805
+   t_statistic: .5178097
+   p_value: .6046272
+ - id: _Ioccupatio_286
+   estimate: .0350707
+   standard_error: .0888582
+   t_statistic: .3946822
+   p_value: .693104
+ - id: _Ioccupatio_287
+   estimate: .0871911
+   standard_error: .0903188
+   t_statistic: .96537
+   p_value: .3344332
+ - id: _Ioccupatio_288
+   estimate: .1548925
+   standard_error: .0941636
+   t_statistic: 1.64493
+   p_value: .1000835
+ - id: _Ioccupatio_289
+   estimate: .2472368
+   standard_error: .0900658
+   t_statistic: 2.745068
+   p_value: .0060839
+ - id: _Ioccupatio_290
+   estimate: .1543157
+   standard_error: .0873554
+   t_statistic: 1.766527
+   p_value: .0774036
+ - id: _Ioccupatio_291
+   estimate: .181031
+   standard_error: .0973825
+   t_statistic: 1.858968
+   p_value: .0631243
+ - id: o._Ioccupatio_292
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_293
+   estimate: .1120347
+   standard_error: .0923275
+   t_statistic: 1.213449
+   p_value: .2250486
+ - id: _Ioccupatio_294
+   estimate: .1802464
+   standard_error: .0828295
+   t_statistic: 2.176115
+   p_value: .0296202
+ - id: _Ioccupatio_295
+   estimate: .0853267
+   standard_error: .0932851
+   t_statistic: .9146876
+   p_value: .3604252
+ - id: _Ioccupatio_296
+   estimate: .128292
+   standard_error: .0828136
+   t_statistic: 1.549166
+   p_value: .1214417
+ - id: _Ioccupatio_297
+   estimate: .0226789
+   standard_error: .0906335
+   t_statistic: .2502267
+   p_value: .8024282
+ - id: _Ioccupatio_298
+   estimate: .1134505
+   standard_error: .0850751
+   t_statistic: 1.333534
+   p_value: .1824523
+ - id: _Ioccupatio_299
+   estimate: .1061119
+   standard_error: .0839875
+   t_statistic: 1.263426
+   p_value: .206529
+ - id: _Ioccupatio_300
+   estimate: .0755533
+   standard_error: .0910649
+   t_statistic: .8296638
+   p_value: .4067914
+ - id: _Ioccupatio_301
+   estimate: .0813357
+   standard_error: .0783813
+   t_statistic: 1.037693
+   p_value: .299492
+ - id: _Ioccupatio_302
+   estimate: -.000435
+   standard_error: .0921877
+   t_statistic: -.0047185
+   p_value: .9962355
+ - id: _Ioccupatio_303
+   estimate: -.0025962
+   standard_error: .1048415
+   t_statistic: -.0247632
+   p_value: .9802454
+ - id: _Ioccupatio_304
+   estimate: .0000662
+   standard_error: .1142621
+   t_statistic: .0005794
+   p_value: .9995377
+ - id: o._Ioccupatio_305
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_306
+   estimate: .0724745
+   standard_error: .0863574
+   t_statistic: .8392397
+   p_value: .4013981
+ - id: _Ioccupatio_307
+   estimate: .0896249
+   standard_error: .0812397
+   t_statistic: 1.103216
+   p_value: .2700173
+ - id: _Ioccupatio_308
+   estimate: .1101553
+   standard_error: .0792313
+   t_statistic: 1.3903
+   p_value: .1645353
+ - id: _Ioccupatio_309
+   estimate: .1576424
+   standard_error: .0751647
+   t_statistic: 2.097293
+   p_value: .0360466
+ - id: _Ioccupatio_310
+   estimate: .2275127
+   standard_error: .071145
+   t_statistic: 3.197873
+   p_value: .0013981
+ - id: _Ioccupatio_311
+   estimate: .2118361
+   standard_error: .0726693
+   t_statistic: 2.915071
+   p_value: .003581
+ - id: _Ioccupatio_312
+   estimate: .1625912
+   standard_error: .0739286
+   t_statistic: 2.199301
+   p_value: .0279285
+ - id: _Ioccupatio_313
+   estimate: .1881853
+   standard_error: .071662
+   t_statistic: 2.626014
+   p_value: .0086807
+ - id: _Ioccupatio_314
+   estimate: .1734923
+   standard_error: .0716167
+   t_statistic: 2.422514
+   p_value: .0154693
+ - id: _Ioccupatio_315
+   estimate: .1542343
+   standard_error: .0726738
+   t_statistic: 2.122282
+   p_value: .0338914
+ - id: _Ioccupatio_316
+   estimate: .1876671
+   standard_error: .0714209
+   t_statistic: 2.627622
+   p_value: .0086398
+ - id: _Ioccupatio_317
+   estimate: .1747295
+   standard_error: .0717271
+   t_statistic: 2.436033
+   p_value: .014904
+ - id: o._Ioccupatio_318
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_319
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_320
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_321
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_322
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_323
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_324
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_325
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_326
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_327
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_328
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_329
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_330
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_331
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_332
+   estimate: .1584977
+   standard_error: .0796604
+   t_statistic: 1.989668
+   p_value: .0467133
+ - id: _Ioccupatio_333
+   estimate: .1109501
+   standard_error: .0793017
+   t_statistic: 1.39909
+   p_value: .1618839
+ - id: _Ioccupatio_334
+   estimate: .0750953
+   standard_error: .0782212
+   t_statistic: .960038
+   p_value: .3371093
+ - id: _Ioccupatio_335
+   estimate: .1280725
+   standard_error: .0763672
+   t_statistic: 1.677061
+   p_value: .0936291
+ - id: _Ioccupatio_336
+   estimate: .1966302
+   standard_error: .0748547
+   t_statistic: 2.626825
+   p_value: .0086601
+ - id: _Ioccupatio_337
+   estimate: .1577675
+   standard_error: .0745568
+   t_statistic: 2.116072
+   p_value: .0344165
+ - id: _Ioccupatio_338
+   estimate: .1915847
+   standard_error: .0750944
+   t_statistic: 2.551252
+   p_value: .0107803
+ - id: _Ioccupatio_339
+   estimate: .1977029
+   standard_error: .0732144
+   t_statistic: 2.70033
+   p_value: .0069639
+ - id: _Ioccupatio_340
+   estimate: .1752737
+   standard_error: .0722008
+   t_statistic: 2.427585
+   p_value: .015255
+ - id: _Ioccupatio_341
+   estimate: .1909349
+   standard_error: .0735165
+   t_statistic: 2.59717
+   p_value: .009443
+ - id: _Ioccupatio_342
+   estimate: .2087555
+   standard_error: .0732159
+   t_statistic: 2.851231
+   p_value: .0043832
+ - id: _Ioccupatio_343
+   estimate: .2251971
+   standard_error: .0729096
+   t_statistic: 3.088717
+   p_value: .0020276
+ - id: o._Ioccupatio_344
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_345
+   estimate: -.5909625
+   standard_error: .0669884
+   t_statistic: -8.821866
+   p_value: 1.82e-18
+ - id: _Ioccupatio_346
+   estimate: .0636179
+   standard_error: .3608225
+   t_statistic: .1763136
+   p_value: .8600588
+ - id: _Ioccupatio_347
+   estimate: .1028209
+   standard_error: .1011356
+   t_statistic: 1.016663
+   p_value: .3093912
+ - id: _Ioccupatio_348
+   estimate: .0707327
+   standard_error: .1218887
+   t_statistic: .5803056
+   p_value: .5617498
+ - id: _Ioccupatio_349
+   estimate: .1825347
+   standard_error: .1911342
+   t_statistic: .9550079
+   p_value: .3396465
+ - id: _Ioccupatio_350
+   estimate: .0695911
+   standard_error: .108758
+   t_statistic: .6398708
+   p_value: .5223028
+ - id: _Ioccupatio_351
+   estimate: -.0309843
+   standard_error: .1068831
+   t_statistic: -.2898901
+   p_value: .7719192
+ - id: _Ioccupatio_352
+   estimate: -.0098953
+   standard_error: .1122094
+   t_statistic: -.0881862
+   p_value: .9297342
+ - id: _Ioccupatio_353
+   estimate: .2240446
+   standard_error: .0674236
+   t_statistic: 3.32294
+   p_value: .0009009
+ - id: _Ioccupatio_354
+   estimate: .2983146
+   standard_error: .1226126
+   t_statistic: 2.432985
+   p_value: .0150299
+ - id: o._Ioccupatio_355
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_356
+   estimate: -.1704872
+   standard_error: .1276782
+   t_statistic: -1.335288
+   p_value: .1818778
+ - id: _Ioccupatio_357
+   estimate: .0644586
+   standard_error: .1515272
+   t_statistic: .4253933
+   p_value: .6705789
+ - id: _Ioccupatio_358
+   estimate: -.1643057
+   standard_error: .1296981
+   t_statistic: -1.266832
+   p_value: .2053083
+ - id: _Ioccupatio_359
+   estimate: .0116547
+   standard_error: .1146046
+   t_statistic: .1016951
+   p_value: .9190051
+ - id: _Ioccupatio_360
+   estimate: -.1151874
+   standard_error: .1232231
+   t_statistic: -.9347877
+   p_value: .3499689
+ - id: _Ioccupatio_361
+   estimate: .2150744
+   standard_error: .1088481
+   t_statistic: 1.975913
+   p_value: .0482512
+ - id: _Ioccupatio_362
+   estimate: .0220985
+   standard_error: .1384733
+   t_statistic: .1595869
+   p_value: .8732167
+ - id: _Ioccupatio_363
+   estimate: -.077551
+   standard_error: .1676197
+   t_statistic: -.4626602
+   p_value: .6436397
+ - id: _Ioccupatio_364
+   estimate: .0322663
+   standard_error: .1612884
+   t_statistic: .2000533
+   p_value: .8414517
+ - id: _Ioccupatio_365
+   estimate: .1130884
+   standard_error: .1372577
+   t_statistic: .8239128
+   p_value: .4100511
+ - id: o._Ioccupatio_366
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_367
+   estimate: .1592989
+   standard_error: .0883933
+   t_statistic: 1.80216
+   p_value: .0716152
+ - id: _Ioccupatio_368
+   estimate: .1350601
+   standard_error: .0802013
+   t_statistic: 1.684015
+   p_value: .0922772
+ - id: _Ioccupatio_369
+   estimate: .1049388
+   standard_error: .0869466
+   t_statistic: 1.206934
+   p_value: .2275475
+ - id: _Ioccupatio_370
+   estimate: .104011
+   standard_error: .0783435
+   t_statistic: 1.327628
+   p_value: .1843967
+ - id: _Ioccupatio_371
+   estimate: .1241263
+   standard_error: .0681865
+   t_statistic: 1.820395
+   p_value: .0687931
+ - id: _Ioccupatio_372
+   estimate: .0639455
+   standard_error: .0777396
+   t_statistic: .8225597
+   p_value: .4108203
+ - id: _Ioccupatio_373
+   estimate: .0029172
+   standard_error: .0810991
+   t_statistic: .0359705
+   p_value: .9713082
+ - id: _Ioccupatio_374
+   estimate: -.0061079
+   standard_error: .0772002
+   t_statistic: -.0791179
+   p_value: .9369438
+ - id: _Ioccupatio_375
+   estimate: -.014267
+   standard_error: .0886185
+   t_statistic: -.1609931
+   p_value: .8721091
+ - id: _Ioccupatio_376
+   estimate: -.0172242
+   standard_error: .0891967
+   t_statistic: -.1931041
+   p_value: .8468898
+ - id: _Ioccupatio_377
+   estimate: -.0103924
+   standard_error: .1062078
+   t_statistic: -.0978501
+   p_value: .9220575
+ - id: _Ioccupatio_378
+   estimate: .0522826
+   standard_error: .1129037
+   t_statistic: .4630725
+   p_value: .6433442
+ - id: o._Ioccupatio_379
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_380
+   estimate: .1110624
+   standard_error: .0945131
+   t_statistic: 1.175101
+   p_value: .2400425
+ - id: _Ioccupatio_381
+   estimate: .1039593
+   standard_error: .0783334
+   t_statistic: 1.327139
+   p_value: .1845583
+ - id: _Ioccupatio_382
+   estimate: .0056968
+   standard_error: .1193809
+   t_statistic: .0477193
+   p_value: .961943
+ - id: _Ioccupatio_383
+   estimate: .0924058
+   standard_error: .0980085
+   t_statistic: .9428348
+   p_value: .3458372
+ - id: _Ioccupatio_384
+   estimate: .0829498
+   standard_error: .0704705
+   t_statistic: 1.177085
+   p_value: .2392501
+ - id: _Ioccupatio_385
+   estimate: .0771915
+   standard_error: .0706575
+   t_statistic: 1.092474
+   p_value: .2747076
+ - id: _Ioccupatio_386
+   estimate: .0766054
+   standard_error: .0725041
+   t_statistic: 1.056567
+   p_value: .2907898
+ - id: _Ioccupatio_387
+   estimate: .0654831
+   standard_error: .0699353
+   t_statistic: .936339
+   p_value: .34917
+ - id: _Ioccupatio_388
+   estimate: .0396767
+   standard_error: .0761899
+   t_statistic: .5207609
+   p_value: .6025697
+ - id: _Ioccupatio_389
+   estimate: .0309244
+   standard_error: .0720705
+   t_statistic: .4290851
+   p_value: .6678904
+ - id: _Ioccupatio_390
+   estimate: .0474041
+   standard_error: .0717812
+   t_statistic: .6603972
+   p_value: .509047
+ - id: _Ioccupatio_391
+   estimate: .0783318
+   standard_error: .0762878
+   t_statistic: 1.026792
+   p_value: .3045965
+ - id: o._Ioccupatio_392
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_393
+   estimate: .2739269
+   standard_error: .0665978
+   t_statistic: 4.113154
+   p_value: .00004
+ - id: _Ioccupatio_394
+   estimate: .0338104
+   standard_error: .0697134
+   t_statistic: .4849909
+   p_value: .6277163
+ - id: _Ioccupatio_395
+   estimate: .3823881
+   standard_error: .0722249
+   t_statistic: 5.29441
+   p_value: 1.28e-07
+ - id: _Ioccupatio_396
+   estimate: .1209044
+   standard_error: .1038167
+   t_statistic: 1.164595
+   p_value: .2442707
+ - id: _Ioccupatio_397
+   estimate: .1543877
+   standard_error: .101712
+   t_statistic: 1.51789
+   p_value: .1291417
+ - id: _Ioccupatio_398
+   estimate: .1410719
+   standard_error: .0803385
+   t_statistic: 1.755969
+   p_value: .0791902
+ - id: _Ioccupatio_399
+   estimate: .1401151
+   standard_error: .0750961
+   t_statistic: 1.865811
+   p_value: .0621601
+ - id: _Ioccupatio_400
+   estimate: .1042641
+   standard_error: .0728354
+   t_statistic: 1.431502
+   p_value: .1523849
+ - id: _Ioccupatio_401
+   estimate: .0501447
+   standard_error: .0757046
+   t_statistic: .6623728
+   p_value: .5077805
+ - id: _Ioccupatio_402
+   estimate: .0662526
+   standard_error: .079765
+   t_statistic: .8305971
+   p_value: .4062638
+ - id: _Ioccupatio_403
+   estimate: .0868697
+   standard_error: .0761517
+   t_statistic: 1.140745
+   p_value: .2540622
+ - id: _Ioccupatio_404
+   estimate: .0344616
+   standard_error: .0830143
+   t_statistic: .4151278
+   p_value: .6780765
+ - id: _Ioccupatio_405
+   estimate: .0919937
+   standard_error: .0826455
+   t_statistic: 1.113112
+   p_value: .2657449
+ - id: _Ioccupatio_406
+   estimate: .0953521
+   standard_error: .0905044
+   t_statistic: 1.053563
+   p_value: .2921634
+ - id: _Ioccupatio_407
+   estimate: .1303087
+   standard_error: .0890667
+   t_statistic: 1.463046
+   p_value: .1435539
+ - id: o._Ioccupatio_408
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_409
+   estimate: .1613821
+   standard_error: .0835909
+   t_statistic: 1.930619
+   p_value: .0536193
+ - id: _Ioccupatio_410
+   estimate: .0719062
+   standard_error: .0838519
+   t_statistic: .8575388
+   p_value: .391212
+ - id: _Ioccupatio_411
+   estimate: .0136835
+   standard_error: .1057137
+   t_statistic: .1294392
+   p_value: .8970184
+ - id: _Ioccupatio_412
+   estimate: .0593637
+   standard_error: .0959207
+   t_statistic: .6188836
+   p_value: .5360375
+ - id: _Ioccupatio_413
+   estimate: .1211796
+   standard_error: .0683262
+   t_statistic: 1.773546
+   p_value: .0762343
+ - id: _Ioccupatio_414
+   estimate: .0317529
+   standard_error: .0814568
+   t_statistic: .3898128
+   p_value: .6967012
+ - id: _Ioccupatio_415
+   estimate: .0128561
+   standard_error: .0783038
+   t_statistic: .1641817
+   p_value: .8695986
+ - id: _Ioccupatio_416
+   estimate: .0090556
+   standard_error: .0770172
+   t_statistic: .1175791
+   p_value: .9064086
+ - id: _Ioccupatio_417
+   estimate: .0193509
+   standard_error: .0808099
+   t_statistic: .2394622
+   p_value: .8107627
+ - id: _Ioccupatio_418
+   estimate: .0143154
+   standard_error: .0910046
+   t_statistic: .1573037
+   p_value: .8750155
+ - id: _Ioccupatio_419
+   estimate: -.0259087
+   standard_error: .1065806
+   t_statistic: -.2430906
+   p_value: .8079509
+ - id: _Ioccupatio_420
+   estimate: .1104453
+   standard_error: .0765491
+   t_statistic: 1.442803
+   p_value: .1491748
+ - id: o._Ioccupatio_421
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_422
+   estimate: .1290424
+   standard_error: .0830936
+   t_statistic: 1.552976
+   p_value: .1205287
+ - id: _Ioccupatio_423
+   estimate: .0829797
+   standard_error: .1008584
+   t_statistic: .8227346
+   p_value: .4107208
+ - id: _Ioccupatio_424
+   estimate: .0092495
+   standard_error: .0946587
+   t_statistic: .0977144
+   p_value: .9221652
+ - id: _Ioccupatio_425
+   estimate: .112933
+   standard_error: .0881785
+   t_statistic: 1.280731
+   p_value: .200382
+ - id: _Ioccupatio_426
+   estimate: .1424124
+   standard_error: .0766497
+   t_statistic: 1.857965
+   p_value: .0632666
+ - id: _Ioccupatio_427
+   estimate: .1116915
+   standard_error: .0675023
+   t_statistic: 1.654633
+   p_value: .098098
+ - id: _Ioccupatio_428
+   estimate: .1393842
+   standard_error: .0751001
+   t_statistic: 1.855979
+   p_value: .0635493
+ - id: _Ioccupatio_429
+   estimate: .0988246
+   standard_error: .0730642
+   t_statistic: 1.352573
+   p_value: .1762885
+ - id: _Ioccupatio_430
+   estimate: .1336779
+   standard_error: .0797978
+   t_statistic: 1.675208
+   p_value: .0939921
+ - id: _Ioccupatio_431
+   estimate: .126022
+   standard_error: .077202
+   t_statistic: 1.632366
+   p_value: .1027018
+ - id: _Ioccupatio_432
+   estimate: .1152668
+   standard_error: .0737576
+   t_statistic: 1.562779
+   p_value: .1182045
+ - id: _Ioccupatio_433
+   estimate: .1863178
+   standard_error: .0798132
+   t_statistic: 2.334422
+   p_value: .0196358
+ - id: o._Ioccupatio_434
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_435
+   estimate: .2469545
+   standard_error: .0711625
+   t_statistic: 3.470289
+   p_value: .0005268
+ - id: _Ioccupatio_436
+   estimate: .4249221
+   standard_error: .0669381
+   t_statistic: 6.347989
+   p_value: 2.49e-10
+ - id: _Ioccupatio_437
+   estimate: .1747744
+   standard_error: .092881
+   t_statistic: 1.881702
+   p_value: .059968
+ - id: _Ioccupatio_438
+   estimate: .1560315
+   standard_error: .0716035
+   t_statistic: 2.179104
+   p_value: .0293973
+ - id: _Ioccupatio_439
+   estimate: .0784214
+   standard_error: .0701402
+   t_statistic: 1.118067
+   p_value: .2636233
+ - id: _Ioccupatio_440
+   estimate: .0901076
+   standard_error: .0667256
+   t_statistic: 1.350421
+   p_value: .1769773
+ - id: _Ioccupatio_441
+   estimate: .156806
+   standard_error: .0679127
+   t_statistic: 2.308937
+   p_value: .0210111
+ - id: _Ioccupatio_442
+   estimate: .062125
+   standard_error: .0716617
+   t_statistic: .866921
+   p_value: .3860509
+ - id: _Ioccupatio_443
+   estimate: .1094256
+   standard_error: .0850512
+   t_statistic: 1.286585
+   p_value: .1983328
+ - id: _Ioccupatio_444
+   estimate: .0562805
+   standard_error: .081386
+   t_statistic: .691526
+   p_value: .4892857
+ - id: _Ioccupatio_445
+   estimate: .0394801
+   standard_error: .0756633
+   t_statistic: .521786
+   p_value: .6018558
+ - id: _Ioccupatio_446
+   estimate: .0714442
+   standard_error: .0778609
+   t_statistic: .9175883
+   p_value: .3589043
+ - id: o._Ioccupatio_447
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_448
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_449
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_450
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_451
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_452
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_453
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_454
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_455
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_456
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_457
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_458
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: o._Ioccupatio_459
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_460
+   estimate: .1542032
+   standard_error: .0763
+   t_statistic: 2.021013
+   p_value: .0433623
+ - id: _Ioccupatio_461
+   estimate: .1625164
+   standard_error: .0723346
+   t_statistic: 2.246729
+   p_value: .0247259
+ - id: _Ioccupatio_462
+   estimate: .085773
+   standard_error: .066377
+   t_statistic: 1.292209
+   p_value: .196379
+ - id: _Ioccupatio_463
+   estimate: .1187365
+   standard_error: .0683408
+   t_statistic: 1.737418
+   p_value: .0824106
+ - id: _Ioccupatio_464
+   estimate: .1214296
+   standard_error: .0689489
+   t_statistic: 1.761154
+   p_value: .0783088
+ - id: _Ioccupatio_465
+   estimate: .0862016
+   standard_error: .0697601
+   t_statistic: 1.235686
+   p_value: .2166667
+ - id: _Ioccupatio_466
+   estimate: .066364
+   standard_error: .0699999
+   t_statistic: .9480586
+   p_value: .3431719
+ - id: _Ioccupatio_467
+   estimate: .1189517
+   standard_error: .0708308
+   t_statistic: 1.679378
+   p_value: .0931769
+ - id: _Ioccupatio_468
+   estimate: .1178504
+   standard_error: .0697427
+   t_statistic: 1.689789
+   p_value: .0911666
+ - id: _Ioccupatio_469
+   estimate: .1355362
+   standard_error: .0699265
+   t_statistic: 1.938266
+   p_value: .0526794
+ - id: _Ioccupatio_470
+   estimate: .1338763
+   standard_error: .0714088
+   t_statistic: 1.874787
+   p_value: .0609138
+ - id: _Ioccupatio_471
+   estimate: .1304087
+   standard_error: .0693298
+   t_statistic: 1.88099
+   p_value: .0600648
+ - id: o._Ioccupatio_472
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_473
+   estimate: .0481195
+   standard_error: .078637
+   t_statistic: .6119199
+   p_value: .5406346
+ - id: _Ioccupatio_474
+   estimate: .2145054
+   standard_error: .0730656
+   t_statistic: 2.935793
+   p_value: .0033509
+ - id: _Ioccupatio_475
+   estimate: .1210163
+   standard_error: .0676195
+   t_statistic: 1.789667
+   p_value: .0736029
+ - id: _Ioccupatio_476
+   estimate: .1644961
+   standard_error: .069964
+   t_statistic: 2.351152
+   p_value: .0187763
+ - id: _Ioccupatio_477
+   estimate: .146826
+   standard_error: .0703771
+   t_statistic: 2.086274
+   p_value: .0370335
+ - id: _Ioccupatio_478
+   estimate: .1126602
+   standard_error: .0706866
+   t_statistic: 1.593799
+   p_value: .1110808
+ - id: _Ioccupatio_479
+   estimate: .1202518
+   standard_error: .0700013
+   t_statistic: 1.71785
+   p_value: .0859216
+ - id: _Ioccupatio_480
+   estimate: .0801029
+   standard_error: .0708486
+   t_statistic: 1.130622
+   p_value: .2582998
+ - id: _Ioccupatio_481
+   estimate: .1292994
+   standard_error: .070756
+   t_statistic: 1.827397
+   p_value: .067734
+ - id: _Ioccupatio_482
+   estimate: .1333013
+   standard_error: .0703737
+   t_statistic: 1.894194
+   p_value: .0582903
+ - id: _Ioccupatio_483
+   estimate: .1769044
+   standard_error: .0724704
+   t_statistic: 2.441058
+   p_value: .0146987
+ - id: _Ioccupatio_484
+   estimate: .1904045
+   standard_error: .073599
+   t_statistic: 2.587053
+   p_value: .0097242
+ - id: o._Ioccupatio_485
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_486
+   estimate: .0925071
+   standard_error: .0677475
+   t_statistic: 1.365469
+   p_value: .1722024
+ - id: _Ioccupatio_487
+   estimate: .0042136
+   standard_error: .067139
+   t_statistic: .0627598
+   p_value: .9499617
+ - id: _Ioccupatio_488
+   estimate: .0762688
+   standard_error: .1022779
+   t_statistic: .7457019
+   p_value: .4559028
+ - id: _Ioccupatio_489
+   estimate: -.0253595
+   standard_error: .0669056
+   t_statistic: -.3790339
+   p_value: .7046881
+ - id: _Ioccupatio_490
+   estimate: .0001999
+   standard_error: .067082
+   t_statistic: .0029807
+   p_value: .997622
+ - id: _Ioccupatio_491
+   estimate: .0426274
+   standard_error: .0670732
+   t_statistic: .6355358
+   p_value: .5251249
+ - id: _Ioccupatio_492
+   estimate: .0016792
+   standard_error: .066155
+   t_statistic: .0253823
+   p_value: .9797516
+ - id: _Ioccupatio_493
+   estimate: -.0302813
+   standard_error: .0659766
+   t_statistic: -.4589711
+   p_value: .6462864
+ - id: o._Ioccupatio_494
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_495
+   estimate: -.0504687
+   standard_error: .1580415
+   t_statistic: -.3193386
+   p_value: .7494908
+ - id: _Ioccupatio_496
+   estimate: -.2976352
+   standard_error: .1166081
+   t_statistic: -2.552439
+   p_value: .0107437
+ - id: _Ioccupatio_497
+   estimate: -.3200057
+   standard_error: .0804227
+   t_statistic: -3.979047
+   p_value: .0000707
+ - id: _Ioccupatio_498
+   estimate: -.0184365
+   standard_error: .1644949
+   t_statistic: -.1120792
+   p_value: .9107677
+ - id: _Ioccupatio_499
+   estimate: -.3712358
+   standard_error: .067795
+   t_statistic: -5.475859
+   p_value: 4.69e-08
+ - id: _Ioccupatio_500
+   estimate: -.2490963
+   standard_error: .1442761
+   t_statistic: -1.726526
+   p_value: .0843503
+ - id: _Ioccupatio_501
+   estimate: .1209035
+   standard_error: .1566292
+   t_statistic: .7719092
+   p_value: .4402258
+ - id: _Ioccupatio_502
+   estimate: .0697475
+   standard_error: .1669572
+   t_statistic: .4177569
+   p_value: .6761532
+ - id: _Ioccupatio_503
+   estimate: .2660979
+   standard_error: .1466163
+   t_statistic: 1.814927
+   p_value: .0696297
+ - id: _Ioccupatio_504
+   estimate: .14014
+   standard_error: .1466648
+   t_statistic: .9555127
+   p_value: .3393913
+ - id: _Ioccupatio_505
+   estimate: .2042546
+   standard_error: .1897704
+   t_statistic: 1.076325
+   p_value: .2818638
+ - id: _Ioccupatio_506
+   estimate: .1293269
+   standard_error: .1781338
+   t_statistic: .7260103
+   p_value: .4678861
+ - id: o._Ioccupatio_507
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_508
+   estimate: .0151036
+   standard_error: .0968018
+   t_statistic: .1560264
+   p_value: .8760221
+ - id: _Ioccupatio_509
+   estimate: .0555663
+   standard_error: .0844956
+   t_statistic: .6576234
+   p_value: .5108279
+ - id: _Ioccupatio_510
+   estimate: .1234806
+   standard_error: .0785489
+   t_statistic: 1.572023
+   p_value: .116045
+ - id: _Ioccupatio_511
+   estimate: .1585382
+   standard_error: .0784996
+   t_statistic: 2.019604
+   p_value: .0435085
+ - id: _Ioccupatio_512
+   estimate: .1555325
+   standard_error: .0799444
+   t_statistic: 1.945507
+   p_value: .0518022
+ - id: _Ioccupatio_513
+   estimate: .1884625
+   standard_error: .0724436
+   t_statistic: 2.601506
+   p_value: .0093247
+ - id: _Ioccupatio_514
+   estimate: .1296228
+   standard_error: .0749366
+   t_statistic: 1.729765
+   p_value: .0837695
+ - id: _Ioccupatio_515
+   estimate: .0979457
+   standard_error: .0865056
+   t_statistic: 1.132247
+   p_value: .2576163
+ - id: _Ioccupatio_516
+   estimate: .0938545
+   standard_error: .0827129
+   t_statistic: 1.134702
+   p_value: .2565858
+ - id: _Ioccupatio_517
+   estimate: .136986
+   standard_error: .0835161
+   t_statistic: 1.640234
+   p_value: .1010557
+ - id: _Ioccupatio_518
+   estimate: .1192705
+   standard_error: .0881776
+   t_statistic: 1.352617
+   p_value: .1762745
+ - id: _Ioccupatio_519
+   estimate: .1619784
+   standard_error: .0852669
+   t_statistic: 1.899664
+   p_value: .057568
+ - id: o._Ioccupatio_520
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_521
+   estimate: -.2701026
+   standard_error: .098602
+   t_statistic: -2.739322
+   p_value: .0061911
+ - id: _Ioccupatio_522
+   estimate: -.1831128
+   standard_error: .0976417
+   t_statistic: -1.875354
+   p_value: .0608359
+ - id: _Ioccupatio_523
+   estimate: -.0665463
+   standard_error: .1155357
+   t_statistic: -.5759806
+   p_value: .5646692
+ - id: _Ioccupatio_524
+   estimate: .0188826
+   standard_error: .1172695
+   t_statistic: .1610189
+   p_value: .8720888
+ - id: _Ioccupatio_525
+   estimate: -.0351649
+   standard_error: .1135511
+   t_statistic: -.3096837
+   p_value: .7568218
+ - id: _Ioccupatio_526
+   estimate: -.0235685
+   standard_error: .1134375
+   t_statistic: -.2077667
+   p_value: .8354245
+ - id: _Ioccupatio_527
+   estimate: .0003374
+   standard_error: .1041309
+   t_statistic: .0032397
+   p_value: .9974153
+ - id: _Ioccupatio_528
+   estimate: -.0004878
+   standard_error: .1137259
+   t_statistic: -.0042891
+   p_value: .996578
+ - id: _Ioccupatio_529
+   estimate: -.0829541
+   standard_error: .1069128
+   t_statistic: -.7759044
+   p_value: .4378633
+ - id: _Ioccupatio_530
+   estimate: -.0597852
+   standard_error: .1143188
+   t_statistic: -.5229691
+   p_value: .6010323
+ - id: _Ioccupatio_531
+   estimate: .1747992
+   standard_error: .1319074
+   t_statistic: 1.325166
+   p_value: .1852115
+ - id: _Ioccupatio_532
+   estimate: -.0116839
+   standard_error: .134023
+   t_statistic: -.0871786
+   p_value: .930535
+ - id: o._Ioccupatio_533
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_534
+   estimate: -.1909851
+   standard_error: .0691871
+   t_statistic: -2.760416
+   p_value: .005806
+ - id: _Ioccupatio_535
+   estimate: -.2463909
+   standard_error: .0686861
+   t_statistic: -3.5872
+   p_value: .0003393
+ - id: o._Ioccupatio_536
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_537
+   estimate: -.4219305
+   standard_error: .0678206
+   t_statistic: -6.22127
+   p_value: 5.58e-10
+ - id: _Ioccupatio_538
+   estimate: -.2284731
+   standard_error: .0674921
+   t_statistic: -3.385181
+   p_value: .00072
+ - id: _Ioccupatio_539
+   estimate: -.3009441
+   standard_error: .0681646
+   t_statistic: -4.414959
+   p_value: .0000104
+ - id: _Ioccupatio_540
+   estimate: .4560548
+   standard_error: .0676262
+   t_statistic: 6.743755
+   p_value: 1.83e-11
+ - id: _Ioccupatio_541
+   estimate: -.0337954
+   standard_error: .2417857
+   t_statistic: -.1397744
+   p_value: .8888471
+ - id: _Ioccupatio_542
+   estimate: -.538657
+   standard_error: .0677084
+   t_statistic: -7.955547
+   p_value: 2.46e-15
+ - id: _Ioccupatio_543
+   estimate: .0693434
+   standard_error: .1905552
+   t_statistic: .3639019
+   p_value: .7159556
+ - id: _Ioccupatio_544
+   estimate: -.0079943
+   standard_error: .3401135
+   t_statistic: -.0235048
+   p_value: .9812491
+ - id: _Ioccupatio_545
+   estimate: .0908517
+   standard_error: .213652
+   t_statistic: .4252322
+   p_value: .6706963
+ - id: _Ioccupatio_546
+   estimate: -.2941324
+   standard_error: .1138279
+   t_statistic: -2.584011
+   p_value: .0098102
+ - id: _Ioccupatio_547
+   estimate: .0835753
+   standard_error: .0693399
+   t_statistic: 1.2053
+   p_value: .2281774
+ - id: _Ioccupatio_548
+   estimate: .1585049
+   standard_error: .3834534
+   t_statistic: .4133616
+   p_value: .6793697
+ - id: _Ioccupatio_549
+   estimate: .1170806
+   standard_error: .3417217
+   t_statistic: .3426197
+   p_value: .7319073
+ - id: o._Ioccupatio_550
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_551
+   estimate: -.1512539
+   standard_error: .1905435
+   t_statistic: -.7938026
+   p_value: .4273698
+ - id: _Ioccupatio_552
+   estimate: -.2149871
+   standard_error: .0741542
+   t_statistic: -2.899191
+   p_value: .003767
+ - id: _Ioccupatio_553
+   estimate: -.0472407
+   standard_error: .1235911
+   t_statistic: -.3822336
+   p_value: .7023137
+ - id: _Ioccupatio_554
+   estimate: .076318
+   standard_error: .1103111
+   t_statistic: .6918426
+   p_value: .4890868
+ - id: _Ioccupatio_555
+   estimate: .061347
+   standard_error: .1106159
+   t_statistic: .554595
+   p_value: .5792108
+ - id: _Ioccupatio_556
+   estimate: .00387
+   standard_error: .1178713
+   t_statistic: .0328326
+   p_value: .9738102
+ - id: _Ioccupatio_557
+   estimate: .1210682
+   standard_error: .159608
+   t_statistic: .7585347
+   p_value: .4481873
+ - id: _Ioccupatio_558
+   estimate: -.1212595
+   standard_error: .1309899
+   t_statistic: -.9257164
+   p_value: .3546639
+ - id: _Ioccupatio_559
+   estimate: -.0215616
+   standard_error: .1170932
+   t_statistic: -.1841407
+   p_value: .8539149
+ - id: _Ioccupatio_560
+   estimate: .0694506
+   standard_error: .1608875
+   t_statistic: .4316719
+   p_value: .6660093
+ - id: _Ioccupatio_561
+   estimate: .114404
+   standard_error: .1210682
+   t_statistic: .9449552
+   p_value: .3447538
+ - id: _Ioccupatio_562
+   estimate: .0236767
+   standard_error: .1212983
+   t_statistic: .1951938
+   p_value: .8452538
+ - id: o._Ioccupatio_563
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_564
+   estimate: -.0470558
+   standard_error: .1954882
+   t_statistic: -.240709
+   p_value: .8097962
+ - id: _Ioccupatio_565
+   estimate: .1560131
+   standard_error: .123802
+   t_statistic: 1.260183
+   p_value: .2076962
+ - id: _Ioccupatio_566
+   estimate: .3654406
+   standard_error: .1656269
+   t_statistic: 2.206408
+   p_value: .0274269
+ - id: _Ioccupatio_567
+   estimate: -.1091559
+   standard_error: .2197182
+   t_statistic: -.4967994
+   p_value: .619365
+ - id: _Ioccupatio_568
+   estimate: -.1418487
+   standard_error: .171002
+   t_statistic: -.8295145
+   p_value: .4068758
+ - id: _Ioccupatio_569
+   estimate: -.2859864
+   standard_error: .2558924
+   t_statistic: -1.117604
+   p_value: .2638208
+ - id: _Ioccupatio_570
+   estimate: -.204355
+   standard_error: .1897062
+   t_statistic: -1.077218
+   p_value: .2814646
+ - id: _Ioccupatio_571
+   estimate: .0069662
+   standard_error: .1786382
+   t_statistic: .0389964
+   p_value: .9688957
+ - id: _Ioccupatio_572
+   estimate: .1768184
+   standard_error: .0868669
+   t_statistic: 2.035509
+   p_value: .0418827
+ - id: _Ioccupatio_573
+   estimate: -.2282607
+   standard_error: .1693571
+   t_statistic: -1.347807
+   p_value: .1778168
+ - id: _Ioccupatio_574
+   estimate: -.4526965
+   standard_error: .1532214
+   t_statistic: -2.954525
+   p_value: .0031546
+ - id: _Ioccupatio_575
+   estimate: -.1135123
+   standard_error: .1931411
+   t_statistic: -.5877168
+   p_value: .5567642
+ - id: o._Ioccupatio_576
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_577
+   estimate: .5258547
+   standard_error: .1106185
+   t_statistic: 4.753768
+   p_value: 2.09e-06
+ - id: _Ioccupatio_578
+   estimate: .3934342
+   standard_error: .0675167
+   t_statistic: 5.827215
+   p_value: 6.20e-09
+ - id: _Ioccupatio_579
+   estimate: .3156443
+   standard_error: .0668067
+   t_statistic: 4.724742
+   p_value: 2.40e-06
+ - id: _Ioccupatio_580
+   estimate: .2846519
+   standard_error: .0669695
+   t_statistic: 4.250473
+   p_value: .0000219
+ - id: _Ioccupatio_581
+   estimate: .2543386
+   standard_error: .0672185
+   t_statistic: 3.783756
+   p_value: .0001573
+ - id: _Ioccupatio_582
+   estimate: .1347517
+   standard_error: .067987
+   t_statistic: 1.982021
+   p_value: .0475631
+ - id: _Ioccupatio_583
+   estimate: .1981956
+   standard_error: .0685795
+   t_statistic: 2.89001
+   p_value: .0038785
+ - id: _Ioccupatio_584
+   estimate: .1697649
+   standard_error: .0688558
+   t_statistic: 2.465515
+   p_value: .0137342
+ - id: o._Ioccupatio_585
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_586
+   estimate: -.2235403
+   standard_error: .1132994
+   t_statistic: -1.973006
+   p_value: .0485816
+ - id: _Ioccupatio_587
+   estimate: .046947
+   standard_error: .2729788
+   t_statistic: .1719804
+   p_value: .8634639
+ - id: _Ioccupatio_588
+   estimate: -.2539769
+   standard_error: .0675797
+   t_statistic: -3.758182
+   p_value: .0001742
+ - id: _Ioccupatio_589
+   estimate: .1443804
+   standard_error: .0676792
+   t_statistic: 2.133306
+   p_value: .0329762
+ - id: _Ioccupatio_590
+   estimate: .1811029
+   standard_error: .0690518
+   t_statistic: 2.62271
+   p_value: .0087651
+ - id: _Ioccupatio_591
+   estimate: -.0815377
+   standard_error: .1588662
+   t_statistic: -.5132476
+   p_value: .6078139
+ - id: _Ioccupatio_592
+   estimate: .0888904
+   standard_error: .0684854
+   t_statistic: 1.297947
+   p_value: .1943999
+ - id: _Ioccupatio_593
+   estimate: .0612475
+   standard_error: .0685781
+   t_statistic: .8931053
+   p_value: .3718686
+ - id: _Ioccupatio_594
+   estimate: .0416761
+   standard_error: .0691862
+   t_statistic: .6023759
+   p_value: .546967
+ - id: o._Ioccupatio_595
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_596
+   estimate: -.7607793
+   standard_error: .0664437
+   t_statistic: -11.44999
+   p_value: 8.98e-30
+ - id: _Ioccupatio_597
+   estimate: .3370851
+   standard_error: .0669538
+   t_statistic: 5.034595
+   p_value: 5.06e-07
+ - id: _Ioccupatio_598
+   estimate: .2980948
+   standard_error: .0661772
+   t_statistic: 4.504494
+   p_value: 6.89e-06
+ - id: _Ioccupatio_599
+   estimate: -.1776316
+   standard_error: .0690993
+   t_statistic: -2.570672
+   p_value: .0101954
+ - id: _Ioccupatio_600
+   estimate: -.2615964
+   standard_error: .1675094
+   t_statistic: -1.561682
+   p_value: .1184627
+ - id: _Ioccupatio_601
+   estimate: .2534556
+   standard_error: .2412647
+   t_statistic: 1.050529
+   p_value: .293555
+ - id: _Ioccupatio_602
+   estimate: -.0657597
+   standard_error: .121585
+   t_statistic: -.5408532
+   p_value: .5886468
+ - id: _Ioccupatio_603
+   estimate: -.0194946
+   standard_error: .1413663
+   t_statistic: -.1379011
+   p_value: .8903273
+ - id: _Ioccupatio_604
+   estimate: -.0160084
+   standard_error: .1240136
+   t_statistic: -.1290857
+   p_value: .897298
+ - id: _Ioccupatio_605
+   estimate: -.0902124
+   standard_error: .1566076
+   t_statistic: -.576041
+   p_value: .5646284
+ - id: _Ioccupatio_606
+   estimate: -.0503406
+   standard_error: .1589831
+   t_statistic: -.3166413
+   p_value: .7515366
+ - id: _Ioccupatio_607
+   estimate: .0411334
+   standard_error: .1387182
+   t_statistic: .2965251
+   p_value: .7668485
+ - id: _Ioccupatio_608
+   estimate: .2216372
+   standard_error: .1266616
+   t_statistic: 1.749837
+   p_value: .0802432
+ - id: _Ioccupatio_609
+   estimate: .2805041
+   standard_error: .0838974
+   t_statistic: 3.343417
+   p_value: .0008371
+ - id: _Ioccupatio_610
+   estimate: .1413355
+   standard_error: .1182838
+   t_statistic: 1.194884
+   p_value: .2322217
+ - id: _Ioccupatio_611
+   estimate: .1166065
+   standard_error: .131945
+   t_statistic: .8837506
+   p_value: .3768979
+ - id: o._Ioccupatio_612
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_623
+   estimate: .0706426
+   standard_error: .0910613
+   t_statistic: .7757691
+   p_value: .4379432
+ - id: _Ioccupatio_624
+   estimate: .1083355
+   standard_error: .092451
+   t_statistic: 1.171816
+   p_value: .2413591
+ - id: _Ioccupatio_625
+   estimate: .1488641
+   standard_error: .0811828
+   t_statistic: 1.83369
+   p_value: .0667937
+ - id: _Ioccupatio_626
+   estimate: .0992365
+   standard_error: .0829049
+   t_statistic: 1.196992
+   p_value: .2313992
+ - id: _Ioccupatio_627
+   estimate: .1284067
+   standard_error: .0812079
+   t_statistic: 1.581209
+   p_value: .1139301
+ - id: _Ioccupatio_628
+   estimate: .0797406
+   standard_error: .0815141
+   t_statistic: .9782431
+   p_value: .3280288
+ - id: _Ioccupatio_629
+   estimate: .1394782
+   standard_error: .0791018
+   t_statistic: 1.763275
+   p_value: .0779504
+ - id: _Ioccupatio_630
+   estimate: .1456137
+   standard_error: .0812425
+   t_statistic: 1.792334
+   p_value: .0731749
+ - id: _Ioccupatio_631
+   estimate: .1252628
+   standard_error: .0818084
+   t_statistic: 1.531173
+   p_value: .1258264
+ - id: _Ioccupatio_632
+   estimate: .1369736
+   standard_error: .0844111
+   t_statistic: 1.622697
+   p_value: .1047536
+ - id: _Ioccupatio_633
+   estimate: .0873535
+   standard_error: .0850463
+   t_statistic: 1.027128
+   p_value: .3044383
+ - id: _Ioccupatio_634
+   estimate: .1310557
+   standard_error: .0861016
+   t_statistic: 1.522105
+   p_value: .1280825
+ - id: o._Ioccupatio_635
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_636
+   estimate: .0458287
+   standard_error: .122172
+   t_statistic: .3751163
+   p_value: .7075991
+ - id: _Ioccupatio_637
+   estimate: .0738242
+   standard_error: .0913511
+   t_statistic: .8081379
+   p_value: .4190718
+ - id: _Ioccupatio_638
+   estimate: .1180125
+   standard_error: .0953241
+   t_statistic: 1.238014
+   p_value: .2158027
+ - id: _Ioccupatio_639
+   estimate: .0068175
+   standard_error: .1134024
+   t_statistic: .0601176
+   p_value: .9520658
+ - id: _Ioccupatio_640
+   estimate: -.017675
+   standard_error: .0904229
+   t_statistic: -.1954702
+   p_value: .8450374
+ - id: _Ioccupatio_641
+   estimate: .002082
+   standard_error: .0906828
+   t_statistic: .0229592
+   p_value: .9816843
+ - id: _Ioccupatio_642
+   estimate: .1287201
+   standard_error: .0818983
+   t_statistic: 1.571706
+   p_value: .1161186
+ - id: _Ioccupatio_643
+   estimate: .1372017
+   standard_error: .076492
+   t_statistic: 1.793675
+   p_value: .0729603
+ - id: _Ioccupatio_644
+   estimate: .1173012
+   standard_error: .0751219
+   t_statistic: 1.561477
+   p_value: .118511
+ - id: _Ioccupatio_645
+   estimate: .130968
+   standard_error: .0779725
+   t_statistic: 1.679668
+   p_value: .0931204
+ - id: _Ioccupatio_646
+   estimate: .1762294
+   standard_error: .0839483
+   t_statistic: 2.099261
+   p_value: .0358728
+ - id: _Ioccupatio_647
+   estimate: .1048463
+   standard_error: .0870382
+   t_statistic: 1.2046
+   p_value: .2284475
+ - id: o._Ioccupatio_648
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_649
+   estimate: .1401144
+   standard_error: .0755574
+   t_statistic: 1.854411
+   p_value: .0637732
+ - id: _Ioccupatio_650
+   estimate: .083361
+   standard_error: .0727802
+   t_statistic: 1.145381
+   p_value: .252138
+ - id: _Ioccupatio_651
+   estimate: .1028214
+   standard_error: .0682756
+   t_statistic: 1.505975
+   p_value: .1321733
+ - id: _Ioccupatio_652
+   estimate: .1247181
+   standard_error: .0679439
+   t_statistic: 1.835605
+   p_value: .0665097
+ - id: _Ioccupatio_653
+   estimate: .1160696
+   standard_error: .0676045
+   t_statistic: 1.716891
+   p_value: .0860968
+ - id: _Ioccupatio_654
+   estimate: .1277552
+   standard_error: .0686102
+   t_statistic: 1.862045
+   p_value: .0626893
+ - id: _Ioccupatio_655
+   estimate: .1199503
+   standard_error: .0677448
+   t_statistic: 1.770619
+   p_value: .0767202
+ - id: _Ioccupatio_656
+   estimate: .1488868
+   standard_error: .0680007
+   t_statistic: 2.189491
+   p_value: .0286338
+ - id: _Ioccupatio_657
+   estimate: .1537529
+   standard_error: .0682304
+   t_statistic: 2.253438
+   p_value: .0242996
+ - id: _Ioccupatio_658
+   estimate: .1521377
+   standard_error: .068346
+   t_statistic: 2.225991
+   p_value: .0260848
+ - id: _Ioccupatio_659
+   estimate: .1889216
+   standard_error: .0689552
+   t_statistic: 2.739772
+   p_value: .0061826
+ - id: _Ioccupatio_660
+   estimate: .1782465
+   standard_error: .0699393
+   t_statistic: 2.548589
+   p_value: .0108627
+ - id: o._Ioccupatio_661
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_662
+   estimate: .0115683
+   standard_error: .1362273
+   t_statistic: .0849195
+   p_value: .9323308
+ - id: _Ioccupatio_663
+   estimate: .0512614
+   standard_error: .1062227
+   t_statistic: .4825844
+   p_value: .6294242
+ - id: _Ioccupatio_664
+   estimate: .2112368
+   standard_error: .0939559
+   t_statistic: 2.248255
+   p_value: .0246284
+ - id: _Ioccupatio_665
+   estimate: .0691302
+   standard_error: .1033737
+   t_statistic: .6687412
+   p_value: .5037093
+ - id: _Ioccupatio_666
+   estimate: .0059243
+   standard_error: .0995532
+   t_statistic: .0595089
+   p_value: .9525505
+ - id: _Ioccupatio_667
+   estimate: -.0316064
+   standard_error: .0931198
+   t_statistic: -.3394163
+   p_value: .7343186
+ - id: _Ioccupatio_668
+   estimate: -.0275506
+   standard_error: .1019319
+   t_statistic: -.2702848
+   p_value: .7869588
+ - id: _Ioccupatio_669
+   estimate: -.1391345
+   standard_error: .0993185
+   t_statistic: -1.400892
+   p_value: .1613444
+ - id: _Ioccupatio_670
+   estimate: -.0602998
+   standard_error: .1189661
+   t_statistic: -.5068654
+   p_value: .6122845
+ - id: _Ioccupatio_671
+   estimate: -.0634084
+   standard_error: .0974564
+   t_statistic: -.6506333
+   p_value: .5153304
+ - id: _Ioccupatio_672
+   estimate: .1440731
+   standard_error: .112624
+   t_statistic: 1.279239
+   p_value: .2009065
+ - id: _Ioccupatio_673
+   estimate: .0618632
+   standard_error: .1141715
+   t_statistic: .5418441
+   p_value: .587964
+ - id: o._Ioccupatio_674
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _Ioccupatio_675
+   estimate: .2005749
+   standard_error: .0927681
+   t_statistic: 2.162112
+   p_value: .0306842
+ - id: _Ioccupatio_676
+   estimate: .138805
+   standard_error: .0882653
+   t_statistic: 1.572589
+   p_value: .1159137
+ - id: _Ioccupatio_677
+   estimate: .1415746
+   standard_error: .0862336
+   t_statistic: 1.641757
+   p_value: .1007396
+ - id: _Ioccupatio_678
+   estimate: .1616828
+   standard_error: .0794514
+   t_statistic: 2.034988
+   p_value: .0419351
+ - id: _Ioccupatio_679
+   estimate: .1604386
+   standard_error: .0737352
+   t_statistic: 2.175876
+   p_value: .0296381
+ - id: _Ioccupatio_680
+   estimate: .1234086
+   standard_error: .0908085
+   t_statistic: 1.358999
+   p_value: .1742437
+ - id: _Ioccupatio_681
+   estimate: .0800984
+   standard_error: .0915333
+   t_statistic: .8750737
+   p_value: .3816001
+ - id: _Ioccupatio_682
+   estimate: .0853987
+   standard_error: .0959684
+   t_statistic: .889862
+   p_value: .3736075
+ - id: _Ioccupatio_683
+   estimate: .1728877
+   standard_error: .102305
+   t_statistic: 1.689925
+   p_value: .0911407
+ - id: _Ioccupatio_684
+   estimate: .0100629
+   standard_error: .1019702
+   t_statistic: .0986848
+   p_value: .9213948
+ - id: _Ioccupatio_685
+   estimate: .0739065
+   standard_error: .0947537
+   t_statistic: .7799853
+   p_value: .4354578
+ - id: _Ioccupatio_686
+   estimate: .1178607
+   standard_error: .1032389
+   t_statistic: 1.141631
+   p_value: .2536938
+ - id: o._Ioccupatio_687
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: _cons
+   estimate: -.7550292
+   standard_error: .110261
+   t_statistic: -6.847651
+   p_value: 8.98e-12
+extra_rows:
+ - id: R2
+   value: .366387649140493
+ - id: observations
+   value: 61173
+ - id: first_stage_F
+   value: 40.63312774090679

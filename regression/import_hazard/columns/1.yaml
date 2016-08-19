@@ -1,0 +1,101 @@
+id: 1
+label: Hazard of\\importing
+coefficients:
+ - id: lnK
+   estimate: .2455943
+   standard_error: .0279994
+   t_statistic: 8.771401
+   p_value: 1.76e-18
+ - id: lnL
+   estimate: -.0768918
+   standard_error: .1918646
+   t_statistic: -.4007607
+   p_value: .6885963
+ - id: lnL2
+   estimate: .0268282
+   standard_error: .0190471
+   t_statistic: 1.408521
+   p_value: .1589769
+ - id: foreign
+   estimate: 1.045148
+   standard_error: .0829269
+   t_statistic: 12.60324
+   p_value: 2.03e-36
+ - id: firm_age
+   estimate: -.7820445
+   standard_error: .051227
+   t_statistic: -15.26626
+   p_value: 1.28e-52
+ - id: firm_age2
+   estimate: .0737769
+   standard_error: .007186
+   t_statistic: 10.26679
+   p_value: 9.95e-25
+ - id: 1992b.year
+   estimate: 0
+   standard_error: .
+   t_statistic: .
+   p_value: .
+ - id: 1993.year
+   estimate: -.2582946
+   standard_error: .0995239
+   t_statistic: -2.595302
+   p_value: .0094508
+ - id: 1994.year
+   estimate: -.2815596
+   standard_error: .0904891
+   t_statistic: -3.111532
+   p_value: .0018612
+ - id: 1995.year
+   estimate: -.1892314
+   standard_error: .1125153
+   t_statistic: -1.681828
+   p_value: .0926022
+ - id: 1996.year
+   estimate: .0457852
+   standard_error: .1112612
+   t_statistic: .4115103
+   p_value: .6806984
+ - id: 1997.year
+   estimate: .0254873
+   standard_error: .1215891
+   t_statistic: .2096184
+   p_value: .8339655
+ - id: 1998.year
+   estimate: .0110739
+   standard_error: .1165509
+   t_statistic: .0950138
+   p_value: .9243039
+ - id: 1999.year
+   estimate: .1873081
+   standard_error: .1196641
+   t_statistic: 1.565282
+   p_value: .1175168
+ - id: 2000.year
+   estimate: .0008132
+   standard_error: .1170306
+   t_statistic: .0069484
+   p_value: .994456
+ - id: 2001.year
+   estimate: -.0589727
+   standard_error: .1166283
+   t_statistic: -.5056469
+   p_value: .6131045
+ - id: 2002.year
+   estimate: .039302
+   standard_error: .1272292
+   t_statistic: .3089069
+   p_value: .7573924
+ - id: 2003.year
+   estimate: .0224874
+   standard_error: .1440442
+   t_statistic: .1561146
+   p_value: .8759427
+ - id: _cons
+   estimate: -2.799246
+   standard_error: .5024539
+   t_statistic: -5.57115
+   p_value: 2.53e-08
+extra_rows:
+ - id: observations
+   value: 4593
